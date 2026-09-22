@@ -1,0 +1,9 @@
+department,avg_department_compensation,avg_department_performance,organisation_avg_compensation,organisation_avg_performance,executive_attention_flag
+"Human Resources Department",10496.94,3.59,10398.41,3.54,"Higher compensation exposure"
+"Engineering Department",10453.86,3.61,10398.41,3.54,"Higher compensation exposure"
+"Data and Analytics Department",10452.28,3.61,10398.41,3.54,"Higher compensation exposure"
+"Marketing Department",10429.24,3.59,10398.41,3.54,"Higher compensation exposure"
+"Customer Support Department",10406.21,3.60,10398.41,3.54,"Higher compensation exposure"
+"Product Management Department",10371.86,3.59,10398.41,3.54,"Within benchmark"
+"Operations Department",10366.27,3.58,10398.41,3.54,"Within benchmark"
+"Finance Department",10355.00,3.59,10398.41,3.54,"Within benchmark"

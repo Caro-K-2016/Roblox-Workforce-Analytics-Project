@@ -1,0 +1,9 @@
+department_code,department,headcount,active_employees,total_compensation,avg_compensation,avg_department_performance,total_projects_completed,avg_attendance_rate,total_revenue_generated,total_department_cost,revenue_to_cost_ratio,department_training_hours,risk_employee_count,risk_employee_pct
+FIN,"Finance Department",3727,1261,38593092.00,10355.00,3.59,102215,92.49,4365968.00,2512136.00,1.74,2788,2473,66.35
+OPS,"Operations Department",3717,1229,38531409.00,10366.27,3.58,101735,92.60,3523373.00,2179098.00,1.62,1431,2499,67.23
+HR,"Human Resources Department",3784,1293,39720422.00,10496.94,3.59,103998,92.41,3798378.00,2169712.00,1.75,401,2525,66.73
+PRD,"Product Management Department",3725,1215,38635183.00,10371.86,3.59,101947,92.50,2979564.00,2131170.00,1.40,2636,2422,65.02
+ENG,"Engineering Department",3699,1300,38668826.00,10453.86,3.61,101317,92.52,3421780.00,2081007.00,1.64,1102,2468,66.72
+MKT,"Marketing Department",3718,1227,38775926.00,10429.24,3.59,101588,92.49,2160865.00,1397211.00,1.55,748,2462,66.22
+CST,"Customer Support Department",3819,1279,39741330.00,10406.21,3.60,104481,92.47,1859410.00,1349308.00,1.38,1464,2605,68.21
+DAT,"Data and Analytics Department",3810,1273,39823180.00,10452.28,3.61,105211,92.43,1226524.00,855814.00,1.43,839,2556,67.09

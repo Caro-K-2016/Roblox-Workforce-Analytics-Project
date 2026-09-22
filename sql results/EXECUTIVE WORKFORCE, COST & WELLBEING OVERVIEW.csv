@@ -1,0 +1,9 @@
+department_code,department,headcount,active_employees,avg_basic_salary,total_basic_salary,total_allowances,total_compensation,wellbeing_or_insurance_risk_count,wellbeing_or_insurance_risk_pct
+DAT,"Data and Analytics Department",3810,1273,8798.78,33523358.00,6299822.00,39823180.00,2556,67.09
+CST,"Customer Support Department",3819,1279,8750.27,33417270.00,6324060.00,39741330.00,2605,68.21
+HR,"Human Resources Department",3784,1293,8835.45,33433337.00,6287085.00,39720422.00,2525,66.73
+MKT,"Marketing Department",3718,1227,8788.92,32677204.00,6098722.00,38775926.00,2462,66.22
+ENG,"Engineering Department",3699,1300,8810.75,32590954.00,6077872.00,38668826.00,2468,66.72
+PRD,"Product Management Department",3725,1215,8727.64,32510456.00,6124727.00,38635183.00,2422,65.02
+FIN,"Finance Department",3727,1261,8704.07,32440085.00,6153007.00,38593092.00,2473,66.35
+OPS,"Operations Department",3717,1229,8703.86,32352234.00,6179175.00,38531409.00,2499,67.23

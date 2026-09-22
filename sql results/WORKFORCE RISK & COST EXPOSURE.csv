@@ -1,0 +1,9 @@
+department,employees,employees_with_insurance_risk,insurance_risk_pct,compensation_exposed_to_risk,avg_medical_leave_balance
+"Customer Support Department",3819,2605,68.21,27290342.00,15.09
+"Data and Analytics Department",3810,2556,67.09,26805289.00,14.98
+"Human Resources Department",3784,2525,66.73,26442105.00,14.76
+"Operations Department",3717,2499,67.23,25958706.00,14.94
+"Engineering Department",3699,2468,66.72,25874558.00,15.09
+"Marketing Department",3718,2462,66.22,25583103.00,14.97
+"Finance Department",3727,2473,66.35,25574049.00,15.19
+"Product Management Department",3725,2422,65.02,25178490.00,15.01

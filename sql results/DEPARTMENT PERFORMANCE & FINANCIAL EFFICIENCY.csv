@@ -1,0 +1,1001 @@
+department,position,education_level,field_of_study,employees,avg_basic_salary,avg_total_compensation
+"Operations Department",Executive,"Master's Degree","Business Administration",81,9135.83,10736.04
+"Customer Support Department",Analyst,"Bachelor's Degree","Business Administration",77,9466.70,10947.53
+"Operations Department",Manager,"Bachelor's Degree","Business Administration",77,9053.14,10554.42
+"Customer Support Department",Developer,"Master's Degree","Business Administration",76,9679.28,11421.00
+"Finance Department",Developer,"Bachelor's Degree","Business Administration",75,7924.05,9617.89
+"Data and Analytics Department",Developer,"Master's Degree","Business Administration",73,9242.15,11020.34
+"Data and Analytics Department",Analyst,"Bachelor's Degree","Business Administration",73,9315.36,10981.27
+"Human Resources Department",Analyst,"Bachelor's Degree","Business Administration",73,9008.73,10620.73
+"Data and Analytics Department",Executive,"Bachelor's Degree","Business Administration",72,9119.72,10842.79
+"Data and Analytics Department",Consultant,"Bachelor's Degree","Business Administration",72,8830.22,10526.18
+"Customer Support Department",Consultant,"Master's Degree","Business Administration",71,9153.77,10841.18
+"Data and Analytics Department",Executive,"Master's Degree","Business Administration",71,8127.69,9744.82
+"Customer Support Department",Executive,"Master's Degree","Business Administration",69,8518.70,10240.81
+"Marketing Department",Developer,"Master's Degree","Business Administration",69,8594.72,10228.99
+"Operations Department",Developer,"Master's Degree","Business Administration",69,8593.03,10179.46
+"Engineering Department",Consultant,"Master's Degree","Business Administration",69,8193.07,9804.65
+"Operations Department",Analyst,"Master's Degree","Business Administration",68,8727.60,10365.62
+"Product Management Department",Developer,"Master's Degree","Business Administration",68,8514.49,10171.37
+"Product Management Department",Consultant,"Bachelor's Degree","Business Administration",67,8317.97,9973.66
+"Data and Analytics Department",Manager,"Master's Degree","Business Administration",67,8169.06,9919.48
+"Human Resources Department",Analyst,"Master's Degree","Business Administration",67,7963.37,9497.99
+"Finance Department",Executive,"Master's Degree","Business Administration",66,8644.58,10437.15
+"Data and Analytics Department",Analyst,"Master's Degree","Business Administration",65,9291.97,10991.38
+"Human Resources Department",Executive,"Master's Degree","Business Administration",65,8469.05,10234.18
+"Engineering Department",Manager,"Bachelor's Degree","Business Administration",65,7712.18,9342.86
+"Human Resources Department",Assistant,"Bachelor's Degree","Business Administration",64,9414.80,11129.33
+"Engineering Department",Developer,"Master's Degree","Business Administration",64,9197.47,10874.00
+"Finance Department",Analyst,"Master's Degree","Business Administration",64,8969.80,10668.11
+"Operations Department",Developer,"Bachelor's Degree","Business Administration",64,8956.88,10520.44
+"Operations Department",Manager,"Master's Degree","Business Administration",64,8595.02,10452.14
+"Product Management Department",Executive,"Master's Degree","Business Administration",64,8610.27,10063.66
+"Engineering Department",Executive,"Master's Degree","Business Administration",64,8261.67,9765.19
+"Marketing Department",Consultant,"Bachelor's Degree","Business Administration",64,8212.50,9744.89
+"Finance Department",Assistant,"Bachelor's Degree","Business Administration",63,8874.13,10631.32
+"Customer Support Department",Assistant,"Bachelor's Degree","Business Administration",63,8584.05,10211.21
+"Human Resources Department",Assistant,"Master's Degree","Business Administration",63,8043.68,9570.68
+"Human Resources Department",Developer,"Master's Degree","Business Administration",62,9249.97,10788.18
+"Finance Department",Developer,"Master's Degree","Business Administration",62,8888.06,10579.32
+"Engineering Department",Developer,"Bachelor's Degree","Business Administration",62,8547.71,10473.48
+"Finance Department",Consultant,"Master's Degree","Business Administration",62,8695.48,10352.21
+"Engineering Department",Assistant,"Bachelor's Degree","Business Administration",62,8586.90,10287.21
+"Marketing Department",Analyst,"Master's Degree","Business Administration",62,8598.27,10219.21
+"Human Resources Department",Consultant,"Master's Degree","Business Administration",62,8636.65,10112.79
+"Marketing Department",Executive,"Master's Degree","Business Administration",62,8354.05,9819.76
+"Product Management Department",Assistant,"Master's Degree","Business Administration",61,9001.41,10686.62
+"Marketing Department",Manager,"Bachelor's Degree","Business Administration",61,8598.64,10092.00
+"Marketing Department",Developer,"Bachelor's Degree","Business Administration",61,8549.89,10088.92
+"Finance Department",Assistant,"Master's Degree","Business Administration",61,8386.21,10087.31
+"Data and Analytics Department",Developer,"Bachelor's Degree","Business Administration",61,8136.20,9717.52
+"Data and Analytics Department",Assistant,"Master's Degree","Business Administration",60,8590.58,10327.40
+"Operations Department",Consultant,"Master's Degree","Business Administration",60,8364.85,9888.90
+"Finance Department",Manager,"Master's Degree","Business Administration",59,9184.68,11007.76
+"Product Management Department",Manager,"Bachelor's Degree","Business Administration",59,9050.81,10830.73
+"Customer Support Department",Analyst,"Master's Degree","Business Administration",59,9096.24,10821.12
+"Human Resources Department",Consultant,"Bachelor's Degree","Business Administration",59,8873.71,10632.05
+"Engineering Department",Analyst,"Master's Degree","Business Administration",59,8558.90,10140.53
+"Marketing Department",Consultant,"Master's Degree","Business Administration",58,9245.16,10918.48
+"Marketing Department",Analyst,"Bachelor's Degree","Business Administration",58,9171.98,10817.29
+"Product Management Department",Executive,"Bachelor's Degree","Business Administration",58,9161.45,10791.76
+"Customer Support Department",Manager,"Bachelor's Degree","Business Administration",58,8805.26,10458.95
+"Product Management Department",Manager,"Master's Degree","Business Administration",58,8820.40,10154.84
+"Marketing Department",Assistant,"Master's Degree","Business Administration",58,8479.33,10103.00
+"Operations Department",Assistant,"Master's Degree","Business Administration",58,8267.66,10036.69
+"Customer Support Department",Developer,"Bachelor's Degree","Business Administration",58,8250.98,9819.59
+"Human Resources Department",Manager,"Master's Degree","Business Administration",57,9531.81,11281.30
+"Data and Analytics Department",Manager,"Bachelor's Degree","Business Administration",57,9025.40,10710.82
+"Product Management Department",Developer,"Bachelor's Degree","Business Administration",57,8303.81,9872.14
+"Finance Department",Executive,"Bachelor's Degree","Business Administration",56,9503.38,10979.93
+"Finance Department",Manager,"Bachelor's Degree","Business Administration",56,9280.09,10947.86
+"Product Management Department",Analyst,"Bachelor's Degree","Business Administration",56,8916.25,10591.48
+"Product Management Department",Consultant,"Master's Degree","Business Administration",56,8782.80,10416.32
+"Marketing Department",Executive,"Bachelor's Degree","Business Administration",56,8676.95,10383.16
+"Human Resources Department",Executive,"Bachelor's Degree","Business Administration",56,8633.79,10244.41
+"Customer Support Department",Executive,"Bachelor's Degree","Business Administration",56,8355.04,10181.55
+"Finance Department",Analyst,"Bachelor's Degree","Business Administration",56,7962.09,9643.63
+"Data and Analytics Department",Assistant,"Bachelor's Degree","Business Administration",55,9025.95,10670.07
+"Customer Support Department",Manager,"Master's Degree","Business Administration",55,8603.87,10091.18
+"Customer Support Department",Consultant,"Bachelor's Degree","Business Administration",54,9112.28,10505.61
+"Engineering Department",Manager,"Master's Degree","Business Administration",54,8778.54,10492.15
+"Product Management Department",Assistant,"Bachelor's Degree","Business Administration",54,8487.78,10227.41
+"Finance Department",Consultant,"Bachelor's Degree","Business Administration",54,8175.85,9796.48
+"Operations Department",Assistant,"Bachelor's Degree","Business Administration",53,8272.60,10038.45
+"Human Resources Department",Manager,"Bachelor's Degree","Business Administration",53,8296.42,9852.25
+"Operations Department",Executive,"Bachelor's Degree","Business Administration",52,8667.42,10234.29
+"Operations Department",Consultant,"Bachelor's Degree","Business Administration",52,8573.23,10223.98
+"Operations Department",Analyst,"Bachelor's Degree","Business Administration",52,8330.31,10155.12
+"Engineering Department",Consultant,"Bachelor's Degree","Business Administration",51,10052.94,11594.31
+"Marketing Department",Manager,"Master's Degree","Business Administration",51,9219.63,10939.35
+"Engineering Department",Assistant,"Master's Degree","Business Administration",51,8969.02,10569.78
+"Engineering Department",Executive,"Bachelor's Degree","Business Administration",49,9260.80,11050.63
+"Product Management Department",Analyst,"Master's Degree","Business Administration",49,8726.35,10532.00
+"Human Resources Department",Developer,"Bachelor's Degree","Business Administration",47,9885.77,11440.13
+"Product Management Department",Manager,"Master's Degree","Information Technology",47,9377.89,11047.00
+"Marketing Department",Assistant,"Bachelor's Degree","Business Administration",47,9040.89,10739.21
+"Operations Department",Developer,"Master's Degree",Engineering,47,8999.36,10457.74
+"Customer Support Department",Assistant,"Master's Degree","Business Administration",47,8514.47,10028.04
+"Engineering Department",Analyst,"Bachelor's Degree","Business Administration",47,8176.17,9830.17
+"Product Management Department",Manager,"Master's Degree",Engineering,47,7939.79,9503.74
+"Human Resources Department",Consultant,"Master's Degree",Economics,46,9273.59,11016.15
+"Data and Analytics Department",Executive,"Master's Degree","Information Technology",45,8416.20,10117.40
+"Data and Analytics Department",Consultant,"Master's Degree","Business Administration",45,8093.24,9667.38
+"Product Management Department",Manager,"Master's Degree","Computer Science",44,8968.27,10757.98
+"Customer Support Department",Executive,"Master's Degree","Data Analytics",44,8095.23,9792.80
+"Marketing Department",Analyst,"Master's Degree",Engineering,44,8190.05,9757.66
+"Marketing Department",Consultant,"Master's Degree","Computer Science",42,9284.90,10927.00
+"Marketing Department",Assistant,"Master's Degree","Information Technology",42,7470.43,9096.60
+"Human Resources Department",Assistant,Diploma,"Business Administration",41,9307.66,11010.32
+"Customer Support Department",Executive,"Master's Degree","Information Technology",41,9168.32,10784.85
+"Customer Support Department",Executive,"Bachelor's Degree","Information Technology",41,8937.15,10761.61
+"Data and Analytics Department",Executive,"Master's Degree",Engineering,41,8769.12,10458.61
+"Customer Support Department",Assistant,"Bachelor's Degree","Information Technology",41,8465.29,10229.56
+"Finance Department",Assistant,"Master's Degree","Computer Science",41,8494.39,10214.68
+"Operations Department",Assistant,"Bachelor's Degree","Computer Science",41,8269.73,10028.15
+"Marketing Department",Consultant,"Bachelor's Degree","Data Analytics",41,7965.88,9576.98
+"Data and Analytics Department",Assistant,"Master's Degree",Engineering,41,7891.07,9469.02
+"Data and Analytics Department",Executive,"Bachelor's Degree","Data Analytics",41,7501.15,8933.07
+"Human Resources Department",Consultant,"Doctoral Degree","Business Administration",40,9822.05,11726.83
+"Data and Analytics Department",Analyst,"Master's Degree",Engineering,40,9846.20,11600.30
+"Human Resources Department",Consultant,"Master's Degree",Engineering,40,9712.25,11302.25
+"Human Resources Department",Assistant,"Master's Degree","Data Analytics",40,8918.38,10711.68
+"Customer Support Department",Consultant,"Bachelor's Degree","Computer Science",40,8934.25,10413.58
+"Marketing Department",Assistant,"Master's Degree",Economics,40,8788.95,10388.90
+"Human Resources Department",Consultant,"Bachelor's Degree","Information Technology",40,8691.80,10310.50
+"Product Management Department",Consultant,"Master's Degree","Data Analytics",40,8557.25,10184.25
+"Human Resources Department",Analyst,"Master's Degree","Information Technology",40,8487.83,10132.08
+"Finance Department",Assistant,"Bachelor's Degree",Economics,40,8450.35,9952.55
+"Customer Support Department",Analyst,"Master's Degree",Economics,40,8157.43,9947.63
+"Data and Analytics Department",Analyst,"Bachelor's Degree",Economics,40,8167.33,9829.58
+"Human Resources Department",Assistant,"Master's Degree",Engineering,39,9756.51,11445.74
+"Customer Support Department",Manager,Diploma,"Business Administration",39,9575.26,11399.67
+"Engineering Department",Developer,"Master's Degree","Computer Science",39,9554.62,11356.92
+"Customer Support Department",Analyst,"Bachelor's Degree","Information Technology",39,9370.90,10964.85
+"Engineering Department",Assistant,"Master's Degree","Data Analytics",39,9218.44,10963.77
+"Marketing Department",Developer,"Master's Degree",Economics,39,8926.51,10752.59
+"Engineering Department",Consultant,"Bachelor's Degree","Information Technology",39,9059.82,10715.85
+"Customer Support Department",Manager,"Bachelor's Degree","Data Analytics",39,9168.21,10712.46
+"Engineering Department",Consultant,"Master's Degree",Engineering,39,8909.90,10663.56
+"Marketing Department",Assistant,"Master's Degree",Engineering,39,8893.23,10620.56
+"Operations Department",Developer,"Master's Degree","Data Analytics",39,8828.87,10562.74
+"Engineering Department",Assistant,"Master's Degree","Information Technology",39,8986.18,10447.08
+"Product Management Department",Developer,"Bachelor's Degree","Information Technology",39,8657.15,10321.28
+"Product Management Department",Executive,"Master's Degree",Economics,39,8405.44,10020.23
+"Product Management Department",Developer,"Bachelor's Degree","Data Analytics",39,8282.36,9834.28
+"Product Management Department",Analyst,"Master's Degree","Data Analytics",39,8188.74,9637.92
+"Finance Department",Consultant,"Master's Degree",Engineering,38,9720.26,11394.08
+"Marketing Department",Assistant,"Bachelor's Degree","Computer Science",38,9467.61,11210.11
+"Engineering Department",Manager,"Bachelor's Degree","Data Analytics",38,9416.74,11172.00
+"Product Management Department",Analyst,"Master's Degree",Engineering,38,9387.68,11069.87
+"Data and Analytics Department",Analyst,"Master's Degree",Economics,38,9370.74,10969.08
+"Data and Analytics Department",Executive,"Master's Degree",Economics,38,9197.58,10840.21
+"Human Resources Department",Analyst,"Doctoral Degree","Business Administration",38,9163.29,10792.34
+"Human Resources Department",Executive,"Bachelor's Degree","Computer Science",38,9019.11,10644.79
+"Product Management Department",Executive,"Bachelor's Degree","Data Analytics",38,9012.13,10616.84
+"Product Management Department",Analyst,"Master's Degree","Information Technology",38,8955.89,10379.76
+"Operations Department",Manager,"Bachelor's Degree","Data Analytics",38,8794.21,10323.11
+"Operations Department",Consultant,Diploma,"Business Administration",38,8715.61,10243.03
+"Engineering Department",Analyst,"Master's Degree","Computer Science",38,8518.24,10044.39
+"Finance Department",Developer,"Master's Degree",Economics,38,7527.74,9217.79
+"Marketing Department",Analyst,"Bachelor's Degree","Computer Science",37,9690.84,11339.08
+"Data and Analytics Department",Executive,"Bachelor's Degree",Economics,37,9531.41,11248.86
+"Engineering Department",Manager,"Master's Degree",Engineering,37,9620.62,11141.70
+"Engineering Department",Consultant,"Bachelor's Degree",Economics,37,9060.41,10731.73
+"Human Resources Department",Consultant,"Bachelor's Degree",Economics,37,9007.27,10632.11
+"Customer Support Department",Assistant,"Master's Degree","Data Analytics",37,8956.38,10624.38
+"Human Resources Department",Assistant,"Bachelor's Degree","Computer Science",37,8929.95,10576.38
+"Customer Support Department",Analyst,"Master's Degree","Data Analytics",37,8897.54,10562.41
+"Human Resources Department",Consultant,"Bachelor's Degree","Data Analytics",37,8638.51,10507.59
+"Human Resources Department",Manager,"Bachelor's Degree","Computer Science",37,8820.46,10498.08
+"Finance Department",Executive,"Master's Degree",Engineering,37,8728.84,10418.89
+"Operations Department",Consultant,"Master's Degree","Information Technology",37,8564.11,10370.24
+"Human Resources Department",Executive,"Bachelor's Degree","Information Technology",37,8661.62,10158.76
+"Customer Support Department",Assistant,"Master's Degree","Information Technology",37,8284.68,9981.89
+"Engineering Department",Executive,"Master's Degree",Engineering,37,8302.95,9861.38
+"Data and Analytics Department",Assistant,"Bachelor's Degree","Computer Science",37,8208.51,9598.86
+"Finance Department",Manager,Diploma,"Business Administration",37,7859.57,9547.41
+"Data and Analytics Department",Analyst,"Master's Degree","Data Analytics",37,7853.78,9298.89
+"Engineering Department",Consultant,"Bachelor's Degree","Computer Science",36,9761.56,11393.75
+"Finance Department",Analyst,"Master's Degree","Data Analytics",36,9507.33,11153.14
+"Finance Department",Executive,"Master's Degree","Computer Science",36,9457.17,11037.11
+"Finance Department",Manager,"Master's Degree","Data Analytics",36,9033.42,10931.42
+"Finance Department",Consultant,"Master's Degree","Data Analytics",36,9400.44,10789.08
+"Engineering Department",Executive,"Bachelor's Degree","Information Technology",36,9148.17,10731.75
+"Operations Department",Manager,"Master's Degree",Engineering,36,8999.22,10567.06
+"Customer Support Department",Developer,"Bachelor's Degree","Computer Science",36,8843.14,10531.25
+"Marketing Department",Executive,"Bachelor's Degree","Information Technology",36,8861.36,10412.28
+"Data and Analytics Department",Executive,"Bachelor's Degree","Computer Science",36,8532.06,10408.64
+"Data and Analytics Department",Consultant,"Bachelor's Degree","Data Analytics",36,8340.97,10289.33
+"Product Management Department",Analyst,"Master's Degree","Computer Science",36,8945.86,10284.75
+"Customer Support Department",Consultant,"Bachelor's Degree",Economics,36,8555.50,10283.28
+"Human Resources Department",Developer,"Master's Degree","Computer Science",36,8550.25,10240.22
+"Customer Support Department",Developer,"Bachelor's Degree","Information Technology",36,8596.78,10226.86
+"Finance Department",Developer,"Bachelor's Degree",Economics,36,8635.78,10132.81
+"Engineering Department",Executive,"Bachelor's Degree","Computer Science",36,8512.00,9981.97
+"Customer Support Department",Analyst,"Master's Degree",Engineering,36,8354.61,9952.33
+"Operations Department",Developer,"Master's Degree","Computer Science",36,8229.89,9945.06
+"Finance Department",Consultant,"Master's Degree","Computer Science",36,8374.42,9807.17
+"Operations Department",Consultant,"Master's Degree","Computer Science",36,7884.81,9586.86
+"Product Management Department",Manager,"Bachelor's Degree","Computer Science",36,7673.08,9270.97
+"Marketing Department",Analyst,"Bachelor's Degree","Data Analytics",36,7369.81,8936.19
+"Engineering Department",Manager,"Master's Degree","Computer Science",35,9269.31,11208.14
+"Marketing Department",Manager,"Doctoral Degree","Business Administration",35,9424.66,11134.11
+"Engineering Department",Developer,"Bachelor's Degree",Economics,35,9556.89,11111.34
+"Marketing Department",Executive,"Master's Degree",Engineering,35,9237.26,11056.29
+"Marketing Department",Developer,"Master's Degree","Information Technology",35,9171.34,10983.37
+"Data and Analytics Department",Developer,"Master's Degree",Engineering,35,9212.86,10935.23
+"Customer Support Department",Executive,"Bachelor's Degree",Economics,35,9380.20,10905.34
+"Operations Department",Assistant,"Master's Degree",Engineering,35,9237.97,10874.80
+"Marketing Department",Consultant,"Bachelor's Degree","Computer Science",35,9272.03,10819.51
+"Data and Analytics Department",Assistant,Diploma,"Business Administration",35,8921.69,10606.11
+"Customer Support Department",Manager,"Doctoral Degree","Business Administration",35,9022.31,10583.63
+"Data and Analytics Department",Consultant,"Master's Degree",Economics,35,9050.51,10568.31
+"Human Resources Department",Executive,"Bachelor's Degree",Economics,35,8957.97,10563.77
+"Product Management Department",Executive,"Master's Degree","Computer Science",35,8835.57,10531.20
+"Human Resources Department",Consultant,"Master's Degree","Data Analytics",35,8685.94,10453.29
+"Customer Support Department",Assistant,"Doctoral Degree","Business Administration",35,8625.83,10146.54
+"Data and Analytics Department",Consultant,"Master's Degree","Data Analytics",35,8598.20,10135.89
+"Marketing Department",Analyst,"Master's Degree",Economics,35,8524.11,10102.00
+"Product Management Department",Analyst,"Bachelor's Degree","Information Technology",35,8249.26,10098.37
+"Data and Analytics Department",Executive,"Bachelor's Degree","Information Technology",35,8223.86,10069.80
+"Marketing Department",Consultant,"Bachelor's Degree","Information Technology",35,8351.74,10064.00
+"Operations Department",Assistant,"Master's Degree","Information Technology",35,8185.14,10037.17
+"Engineering Department",Executive,"Bachelor's Degree","Data Analytics",35,8048.91,9936.49
+"Marketing Department",Developer,"Bachelor's Degree","Data Analytics",35,8287.97,9809.11
+"Product Management Department",Analyst,"Bachelor's Degree","Computer Science",35,8097.29,9788.17
+"Data and Analytics Department",Developer,"Master's Degree","Computer Science",35,8216.71,9715.14
+"Product Management Department",Manager,"Master's Degree",Economics,35,8112.14,9621.97
+"Finance Department",Developer,"Master's Degree",Engineering,35,7800.09,9371.80
+"Product Management Department",Consultant,"Master's Degree",Engineering,35,7614.74,9284.49
+"Marketing Department",Consultant,"Bachelor's Degree",Economics,34,9786.35,11513.68
+"Marketing Department",Manager,"Master's Degree","Information Technology",34,9368.24,11383.41
+"Product Management Department",Assistant,"Bachelor's Degree","Computer Science",34,9699.97,11356.65
+"Human Resources Department",Developer,"Bachelor's Degree","Information Technology",34,9714.59,11321.62
+"Finance Department",Analyst,Diploma,"Business Administration",34,9605.21,11193.29
+"Finance Department",Executive,"Bachelor's Degree","Computer Science",34,9206.03,10996.03
+"Marketing Department",Executive,"Master's Degree",Economics,34,9328.68,10962.79
+"Finance Department",Manager,"Master's Degree",Engineering,34,9317.26,10881.41
+"Customer Support Department",Executive,"Doctoral Degree","Business Administration",34,9162.85,10824.94
+"Human Resources Department",Manager,"Bachelor's Degree","Information Technology",34,9214.85,10822.79
+"Product Management Department",Analyst,Diploma,"Business Administration",34,9150.09,10795.03
+"Customer Support Department",Analyst,"Bachelor's Degree",Economics,34,8780.50,10583.74
+"Customer Support Department",Developer,"Master's Degree",Economics,34,8709.94,10339.68
+"Human Resources Department",Executive,"Master's Degree",Economics,34,8749.38,10290.06
+"Finance Department",Developer,"Master's Degree","Information Technology",34,8431.91,10135.06
+"Customer Support Department",Developer,"Master's Degree",Engineering,34,8337.00,10099.12
+"Finance Department",Manager,"Bachelor's Degree","Information Technology",34,8220.85,10051.53
+"Operations Department",Analyst,"Master's Degree",Economics,34,8434.29,10044.76
+"Finance Department",Developer,Diploma,"Business Administration",34,8266.18,10024.88
+"Human Resources Department",Developer,"Master's Degree","Information Technology",34,8493.56,9982.97
+"Human Resources Department",Consultant,"Bachelor's Degree","Computer Science",34,8255.97,9854.32
+"Customer Support Department",Consultant,"Master's Degree",Economics,34,8108.18,9829.56
+"Data and Analytics Department",Assistant,"Bachelor's Degree","Information Technology",34,8163.32,9828.12
+"Customer Support Department",Assistant,"Bachelor's Degree",Economics,34,7942.26,9773.79
+"Finance Department",Consultant,Diploma,"Business Administration",34,8033.71,9633.82
+"Operations Department",Executive,Diploma,"Business Administration",34,7197.94,9080.56
+"Operations Department",Consultant,"Master's Degree","Data Analytics",33,9494.36,11268.79
+"Human Resources Department",Consultant,"Bachelor's Degree",Engineering,33,9576.30,11214.15
+"Product Management Department",Analyst,"Bachelor's Degree",Economics,33,9312.27,11167.64
+"Marketing Department",Assistant,"Master's Degree","Data Analytics",33,9264.52,11049.36
+"Finance Department",Developer,"Master's Degree","Computer Science",33,9400.73,11017.67
+"Marketing Department",Executive,"Master's Degree","Data Analytics",33,9080.27,10982.64
+"Data and Analytics Department",Developer,"Master's Degree","Information Technology",33,9446.33,10929.39
+"Data and Analytics Department",Consultant,"Master's Degree","Computer Science",33,9192.85,10863.94
+"Marketing Department",Manager,"Master's Degree",Engineering,33,9282.82,10737.15
+"Engineering Department",Assistant,"Bachelor's Degree",Economics,33,8924.76,10659.70
+"Finance Department",Executive,Diploma,"Business Administration",33,8950.52,10613.61
+"Finance Department",Manager,"Bachelor's Degree","Data Analytics",33,9008.58,10587.52
+"Operations Department",Manager,"Master's Degree","Computer Science",33,8703.42,10527.52
+"Product Management Department",Assistant,"Master's Degree",Economics,33,8783.70,10521.94
+"Marketing Department",Manager,"Master's Degree","Computer Science",33,8786.76,10471.03
+"Operations Department",Analyst,Diploma,"Business Administration",33,8694.79,10448.15
+"Marketing Department",Developer,"Master's Degree","Data Analytics",33,8768.79,10361.06
+"Customer Support Department",Executive,"Bachelor's Degree","Data Analytics",33,8697.33,10309.45
+"Product Management Department",Assistant,"Bachelor's Degree","Data Analytics",33,8683.48,10282.42
+"Engineering Department",Executive,Diploma,"Business Administration",33,8631.70,10219.30
+"Finance Department",Analyst,"Bachelor's Degree","Data Analytics",33,8337.97,10218.24
+"Finance Department",Manager,"Master's Degree","Computer Science",33,8603.36,10194.24
+"Marketing Department",Manager,"Bachelor's Degree","Computer Science",33,8443.36,9983.85
+"Engineering Department",Analyst,Diploma,"Business Administration",33,8236.24,9861.52
+"Data and Analytics Department",Manager,"Master's Degree",Engineering,33,8466.73,9854.15
+"Operations Department",Developer,Diploma,"Business Administration",33,8096.09,9824.21
+"Product Management Department",Executive,"Master's Degree",Engineering,33,8263.82,9820.48
+"Data and Analytics Department",Analyst,"Bachelor's Degree","Information Technology",33,7954.33,9589.82
+"Finance Department",Assistant,"Master's Degree","Information Technology",33,7604.61,9171.82
+"Finance Department",Analyst,"Bachelor's Degree","Computer Science",33,7010.76,8923.82
+"Customer Support Department",Manager,"Master's Degree",Economics,32,10434.38,12077.34
+"Human Resources Department",Consultant,"Master's Degree","Information Technology",32,9676.94,11509.91
+"Marketing Department",Executive,Diploma,"Business Administration",32,9669.03,11347.53
+"Data and Analytics Department",Consultant,"Bachelor's Degree","Computer Science",32,9605.56,11338.19
+"Customer Support Department",Executive,"Master's Degree",Engineering,32,9603.75,11306.31
+"Product Management Department",Developer,"Master's Degree","Information Technology",32,9491.16,11146.56
+"Customer Support Department",Analyst,"Master's Degree","Computer Science",32,9437.19,11115.00
+"Data and Analytics Department",Consultant,"Master's Degree",Engineering,32,9495.00,11088.69
+"Finance Department",Manager,"Master's Degree",Economics,32,9282.84,10819.25
+"Data and Analytics Department",Executive,Diploma,"Business Administration",32,8968.41,10774.06
+"Human Resources Department",Analyst,"Master's Degree","Data Analytics",32,9112.31,10770.59
+"Marketing Department",Executive,"Master's Degree","Information Technology",32,9190.88,10753.47
+"Operations Department",Assistant,"Bachelor's Degree","Information Technology",32,9190.88,10745.28
+"Data and Analytics Department",Analyst,"Bachelor's Degree","Data Analytics",32,9102.13,10703.16
+"Finance Department",Executive,"Master's Degree",Economics,32,9206.44,10672.25
+"Operations Department",Executive,"Master's Degree","Information Technology",32,9023.06,10633.28
+"Human Resources Department",Developer,"Master's Degree",Engineering,32,8734.78,10604.78
+"Engineering Department",Manager,"Master's Degree","Data Analytics",32,9053.53,10566.94
+"Customer Support Department",Developer,"Master's Degree","Data Analytics",32,8652.13,10514.19
+"Marketing Department",Developer,"Bachelor's Degree",Economics,32,8605.19,10387.28
+"Customer Support Department",Assistant,"Master's Degree",Engineering,32,8588.47,10384.38
+"Finance Department",Consultant,"Bachelor's Degree","Computer Science",32,8785.13,10330.19
+"Customer Support Department",Developer,"Master's Degree","Computer Science",32,8607.09,10313.06
+"Human Resources Department",Analyst,"Master's Degree",Economics,32,8743.88,10188.22
+"Finance Department",Manager,"Bachelor's Degree",Economics,32,8471.22,10180.28
+"Data and Analytics Department",Executive,"Bachelor's Degree",Engineering,32,8449.63,9987.59
+"Marketing Department",Consultant,"Master's Degree",Engineering,32,8272.84,9958.34
+"Product Management Department",Consultant,"Master's Degree","Computer Science",32,8206.41,9953.63
+"Data and Analytics Department",Executive,"Master's Degree","Computer Science",32,8137.53,9878.41
+"Human Resources Department",Consultant,Diploma,"Business Administration",32,8194.47,9863.50
+"Marketing Department",Assistant,"Master's Degree","Computer Science",32,8080.72,9802.16
+"Data and Analytics Department",Developer,Diploma,"Business Administration",32,8086.16,9796.47
+"Human Resources Department",Analyst,Diploma,"Business Administration",32,8146.75,9789.09
+"Data and Analytics Department",Developer,"Master's Degree",Economics,32,8226.41,9766.19
+"Operations Department",Consultant,"Bachelor's Degree","Data Analytics",32,8168.28,9754.06
+"Finance Department",Executive,"Bachelor's Degree","Information Technology",32,8149.88,9602.56
+"Operations Department",Manager,"Bachelor's Degree","Information Technology",32,6942.53,8524.75
+"Product Management Department",Executive,Diploma,"Business Administration",31,10451.42,12134.35
+"Data and Analytics Department",Developer,"Bachelor's Degree",Economics,31,10101.61,11754.26
+"Data and Analytics Department",Manager,"Master's Degree","Information Technology",31,9929.65,11688.97
+"Operations Department",Developer,"Bachelor's Degree","Information Technology",31,9984.94,11618.06
+"Human Resources Department",Executive,"Master's Degree","Information Technology",31,9458.32,11312.19
+"Human Resources Department",Assistant,"Master's Degree","Computer Science",31,9392.65,11119.55
+"Product Management Department",Consultant,"Master's Degree","Information Technology",31,9438.94,11017.45
+"Finance Department",Executive,"Bachelor's Degree",Economics,31,9151.03,10926.42
+"Customer Support Department",Assistant,Diploma,"Business Administration",31,9297.32,10858.13
+"Human Resources Department",Analyst,"Bachelor's Degree","Information Technology",31,8859.39,10779.26
+"Data and Analytics Department",Manager,"Master's Degree","Data Analytics",31,9154.32,10685.94
+"Product Management Department",Assistant,"Master's Degree","Computer Science",31,8858.71,10643.90
+"Finance Department",Assistant,"Doctoral Degree","Business Administration",31,8916.16,10576.29
+"Engineering Department",Developer,Diploma,"Business Administration",31,8830.45,10421.00
+"Engineering Department",Developer,"Master's Degree",Economics,31,8768.00,10397.03
+"Product Management Department",Executive,"Bachelor's Degree",Economics,31,8644.00,10360.81
+"Marketing Department",Consultant,"Master's Degree","Data Analytics",31,8645.97,10305.68
+"Finance Department",Consultant,"Bachelor's Degree",Economics,31,8675.39,10303.45
+"Human Resources Department",Executive,"Master's Degree",Engineering,31,8611.23,10219.90
+"Product Management Department",Manager,"Doctoral Degree","Business Administration",31,8510.74,10209.52
+"Operations Department",Consultant,"Bachelor's Degree","Computer Science",31,8447.71,10176.81
+"Engineering Department",Analyst,"Master's Degree","Data Analytics",31,8542.97,10159.35
+"Product Management Department",Consultant,"Bachelor's Degree","Information Technology",31,8414.68,10090.06
+"Product Management Department",Manager,"Bachelor's Degree","Information Technology",31,8519.58,10063.45
+"Marketing Department",Analyst,"Master's Degree","Data Analytics",31,8264.03,9959.65
+"Customer Support Department",Consultant,"Master's Degree","Information Technology",31,8137.71,9951.68
+"Engineering Department",Developer,"Bachelor's Degree","Data Analytics",31,8465.10,9943.94
+"Operations Department",Manager,"Master's Degree","Data Analytics",31,8087.35,9849.61
+"Engineering Department",Developer,"Master's Degree","Information Technology",31,8173.26,9745.94
+"Marketing Department",Manager,"Bachelor's Degree","Data Analytics",31,8157.45,9695.84
+"Product Management Department",Executive,"Bachelor's Degree","Information Technology",31,7882.06,9583.77
+"Customer Support Department",Assistant,"Bachelor's Degree","Data Analytics",31,7529.87,9148.00
+"Data and Analytics Department",Assistant,"Bachelor's Degree","Data Analytics",31,7565.16,9094.48
+"Product Management Department",Developer,"Master's Degree",Engineering,31,6766.48,8538.52
+"Human Resources Department",Executive,"Doctoral Degree","Business Administration",31,6704.19,8395.65
+"Operations Department",Manager,Diploma,"Business Administration",30,10036.43,11709.17
+"Data and Analytics Department",Consultant,"Bachelor's Degree",Economics,30,9470.03,11310.23
+"Human Resources Department",Assistant,"Bachelor's Degree","Data Analytics",30,9566.93,11247.37
+"Engineering Department",Assistant,"Bachelor's Degree","Data Analytics",30,9690.43,11223.50
+"Human Resources Department",Executive,"Master's Degree","Computer Science",30,9564.40,11179.17
+"Data and Analytics Department",Analyst,"Doctoral Degree","Business Administration",30,9642.60,11122.13
+"Human Resources Department",Developer,"Bachelor's Degree","Data Analytics",30,9547.17,10942.67
+"Marketing Department",Assistant,"Bachelor's Degree","Information Technology",30,9309.90,10925.63
+"Marketing Department",Assistant,Diploma,"Business Administration",30,9354.87,10917.00
+"Operations Department",Assistant,"Bachelor's Degree",Economics,30,9116.43,10829.27
+"Engineering Department",Consultant,"Master's Degree",Economics,30,8959.90,10813.73
+"Engineering Department",Manager,"Master's Degree","Information Technology",30,8989.70,10775.30
+"Data and Analytics Department",Manager,"Master's Degree","Computer Science",30,8963.87,10687.70
+"Data and Analytics Department",Developer,"Bachelor's Degree","Computer Science",30,8890.30,10675.90
+"Customer Support Department",Executive,"Bachelor's Degree",Engineering,30,8849.80,10674.67
+"Finance Department",Developer,"Bachelor's Degree","Information Technology",30,9050.20,10622.97
+"Marketing Department",Executive,"Doctoral Degree","Business Administration",30,8941.60,10597.53
+"Engineering Department",Manager,Diploma,"Business Administration",30,9315.13,10576.40
+"Product Management Department",Assistant,"Master's Degree","Data Analytics",30,8762.50,10570.83
+"Customer Support Department",Developer,"Doctoral Degree","Business Administration",30,8778.67,10550.23
+"Human Resources Department",Manager,"Bachelor's Degree",Economics,30,8629.77,10347.83
+"Customer Support Department",Consultant,"Master's Degree",Engineering,30,8808.60,10293.90
+"Operations Department",Assistant,"Bachelor's Degree",Engineering,30,8533.50,10243.03
+"Product Management Department",Developer,"Master's Degree","Computer Science",30,8289.37,10142.60
+"Marketing Department",Executive,"Bachelor's Degree",Economics,30,8564.83,10142.23
+"Data and Analytics Department",Manager,Diploma,"Business Administration",30,8619.07,10093.23
+"Engineering Department",Analyst,"Bachelor's Degree",Economics,30,8630.50,10083.13
+"Marketing Department",Analyst,Diploma,"Business Administration",30,8237.00,10021.67
+"Human Resources Department",Developer,"Bachelor's Degree","Computer Science",30,8292.47,10005.57
+"Operations Department",Executive,"Master's Degree",Engineering,30,8361.33,9922.57
+"Customer Support Department",Executive,"Master's Degree",Economics,30,8246.87,9836.73
+"Product Management Department",Consultant,"Master's Degree",Economics,30,8086.73,9798.43
+"Operations Department",Executive,"Bachelor's Degree","Data Analytics",30,8186.97,9628.83
+"Product Management Department",Consultant,"Bachelor's Degree","Computer Science",30,8116.07,9625.43
+"Engineering Department",Analyst,"Bachelor's Degree","Information Technology",30,7926.03,9516.03
+"Operations Department",Assistant,Diploma,"Business Administration",30,7829.17,9379.87
+"Product Management Department",Developer,Diploma,"Business Administration",30,8072.10,9321.60
+"Operations Department",Analyst,"Doctoral Degree","Business Administration",30,7592.23,9293.20
+"Operations Department",Manager,"Master's Degree","Information Technology",29,10179.41,11973.69
+"Operations Department",Analyst,"Master's Degree","Computer Science",29,10217.52,11766.52
+"Engineering Department",Assistant,"Master's Degree","Computer Science",29,10160.90,11687.07
+"Human Resources Department",Analyst,"Master's Degree",Engineering,29,10028.24,11618.28
+"Data and Analytics Department",Analyst,"Master's Degree","Information Technology",29,9796.72,11428.03
+"Operations Department",Developer,"Bachelor's Degree",Economics,29,9673.00,11389.41
+"Engineering Department",Assistant,"Bachelor's Degree","Information Technology",29,9571.93,11229.45
+"Operations Department",Developer,"Doctoral Degree","Business Administration",29,9181.76,11044.76
+"Customer Support Department",Analyst,Diploma,"Business Administration",29,9213.07,11023.83
+"Operations Department",Manager,"Bachelor's Degree","Computer Science",29,9182.24,11023.00
+"Product Management Department",Manager,Diploma,"Business Administration",29,9133.24,10916.48
+"Product Management Department",Analyst,"Bachelor's Degree",Engineering,29,9416.76,10876.17
+"Finance Department",Assistant,"Bachelor's Degree","Computer Science",29,9174.24,10812.38
+"Engineering Department",Analyst,"Bachelor's Degree","Computer Science",29,9276.03,10766.07
+"Engineering Department",Executive,"Master's Degree","Computer Science",29,9128.17,10756.14
+"Finance Department",Analyst,"Master's Degree","Information Technology",29,9195.21,10722.10
+"Marketing Department",Consultant,Diploma,"Business Administration",29,9146.45,10707.31
+"Human Resources Department",Developer,"Doctoral Degree","Business Administration",29,9057.62,10696.52
+"Customer Support Department",Assistant,"Master's Degree",Economics,29,8977.79,10691.45
+"Engineering Department",Developer,"Master's Degree",Engineering,29,9139.97,10667.14
+"Operations Department",Analyst,"Bachelor's Degree",Economics,29,8730.41,10589.34
+"Data and Analytics Department",Consultant,"Bachelor's Degree",Engineering,29,8928.66,10584.83
+"Human Resources Department",Developer,"Bachelor's Degree",Engineering,29,9133.76,10535.86
+"Operations Department",Developer,"Bachelor's Degree","Data Analytics",29,8991.66,10515.59
+"Engineering Department",Analyst,"Bachelor's Degree","Data Analytics",29,8806.38,10410.48
+"Customer Support Department",Consultant,"Master's Degree","Computer Science",29,8732.86,10365.14
+"Product Management Department",Assistant,"Bachelor's Degree",Economics,29,8613.66,10285.31
+"Operations Department",Analyst,"Master's Degree","Data Analytics",29,8658.83,10283.62
+"Marketing Department",Executive,"Bachelor's Degree","Data Analytics",29,8669.62,10225.17
+"Marketing Department",Consultant,"Master's Degree","Information Technology",29,8444.76,10187.69
+"Customer Support Department",Manager,"Bachelor's Degree",Economics,29,8639.90,10161.10
+"Customer Support Department",Developer,"Master's Degree","Information Technology",29,8478.38,10124.00
+"Engineering Department",Manager,"Bachelor's Degree","Information Technology",29,8386.52,10123.69
+"Engineering Department",Assistant,"Bachelor's Degree","Computer Science",29,8613.21,10114.48
+"Marketing Department",Developer,Diploma,"Business Administration",29,8474.41,10071.76
+"Finance Department",Assistant,"Master's Degree","Data Analytics",29,8411.69,10019.14
+"Finance Department",Developer,"Master's Degree","Data Analytics",29,8566.14,9983.62
+"Customer Support Department",Assistant,"Bachelor's Degree","Computer Science",29,8289.00,9827.93
+"Customer Support Department",Analyst,"Master's Degree","Information Technology",29,8343.72,9766.55
+"Customer Support Department",Manager,"Master's Degree","Information Technology",29,8235.93,9678.21
+"Engineering Department",Developer,"Master's Degree","Data Analytics",29,8244.79,9673.00
+"Engineering Department",Analyst,"Master's Degree",Economics,29,7870.10,9582.21
+"Customer Support Department",Analyst,"Bachelor's Degree","Data Analytics",29,7512.45,9287.41
+"Marketing Department",Analyst,"Bachelor's Degree",Engineering,29,7464.62,9080.55
+"Data and Analytics Department",Developer,"Master's Degree","Data Analytics",29,7249.86,8725.52
+"Customer Support Department",Executive,"Bachelor's Degree","Computer Science",29,7037.90,8630.07
+"Finance Department",Consultant,"Doctoral Degree","Business Administration",29,7182.10,8541.31
+"Data and Analytics Department",Developer,"Bachelor's Degree","Data Analytics",28,10086.25,11829.79
+"Customer Support Department",Developer,Diploma,"Business Administration",28,10143.07,11754.11
+"Human Resources Department",Manager,Diploma,"Business Administration",28,9998.07,11460.18
+"Product Management Department",Assistant,"Master's Degree",Engineering,28,9356.00,11283.86
+"Human Resources Department",Analyst,"Master's Degree","Computer Science",28,9267.86,11128.14
+"Operations Department",Executive,"Master's Degree",Economics,28,9694.68,11111.93
+"Data and Analytics Department",Assistant,"Bachelor's Degree",Economics,28,9289.93,11080.71
+"Finance Department",Manager,"Bachelor's Degree","Computer Science",28,9329.68,11008.25
+"Human Resources Department",Executive,"Bachelor's Degree",Engineering,28,9213.57,10981.93
+"Data and Analytics Department",Manager,"Bachelor's Degree",Economics,28,9337.39,10919.71
+"Operations Department",Executive,"Master's Degree","Computer Science",28,9052.18,10755.29
+"Customer Support Department",Developer,"Bachelor's Degree",Economics,28,8870.00,10731.82
+"Marketing Department",Developer,"Bachelor's Degree","Information Technology",28,8822.11,10661.79
+"Product Management Department",Executive,"Bachelor's Degree","Computer Science",28,9122.50,10649.71
+"Marketing Department",Consultant,"Master's Degree",Economics,28,9017.36,10577.04
+"Engineering Department",Executive,"Master's Degree","Information Technology",28,8845.64,10561.54
+"Product Management Department",Assistant,"Bachelor's Degree",Engineering,28,8668.96,10550.18
+"Product Management Department",Consultant,"Bachelor's Degree","Data Analytics",28,8972.89,10502.36
+"Engineering Department",Executive,"Bachelor's Degree",Economics,28,8572.21,10450.18
+"Customer Support Department",Manager,"Master's Degree",Engineering,28,9039.46,10432.39
+"Finance Department",Assistant,"Master's Degree",Economics,28,9102.00,10397.46
+"Human Resources Department",Assistant,"Bachelor's Degree","Information Technology",28,8986.50,10363.11
+"Customer Support Department",Analyst,"Bachelor's Degree","Computer Science",28,9026.50,10354.86
+"Operations Department",Executive,"Bachelor's Degree","Information Technology",28,8429.32,10349.71
+"Finance Department",Assistant,"Master's Degree",Engineering,28,8931.21,10325.00
+"Engineering Department",Consultant,"Master's Degree","Computer Science",28,8840.21,10315.86
+"Operations Department",Developer,"Bachelor's Degree","Computer Science",28,8585.18,10249.64
+"Marketing Department",Manager,"Master's Degree","Data Analytics",28,8524.29,10118.29
+"Operations Department",Analyst,"Bachelor's Degree","Computer Science",28,8186.96,9960.68
+"Marketing Department",Analyst,"Bachelor's Degree","Information Technology",28,8535.57,9944.32
+"Data and Analytics Department",Consultant,Diploma,"Business Administration",28,8077.46,9814.07
+"Engineering Department",Developer,"Bachelor's Degree","Computer Science",28,8324.29,9805.07
+"Customer Support Department",Developer,"Bachelor's Degree","Data Analytics",28,8303.21,9680.96
+"Customer Support Department",Manager,"Bachelor's Degree","Information Technology",28,7799.11,9428.46
+"Finance Department",Executive,"Master's Degree","Data Analytics",28,7353.18,8901.71
+"Data and Analytics Department",Manager,"Bachelor's Degree","Computer Science",28,7427.25,8825.96
+"Product Management Department",Developer,"Master's Degree",Economics,27,10494.63,12172.33
+"Finance Department",Manager,"Doctoral Degree","Business Administration",27,10284.56,12047.30
+"Finance Department",Executive,"Bachelor's Degree",Engineering,27,10402.78,11998.07
+"Finance Department",Consultant,"Master's Degree",Economics,27,9779.30,11677.44
+"Marketing Department",Executive,"Bachelor's Degree","Computer Science",27,10005.30,11576.44
+"Finance Department",Assistant,Diploma,"Business Administration",27,9552.11,11278.48
+"Marketing Department",Manager,Diploma,"Business Administration",27,9496.78,11203.22
+"Engineering Department",Manager,"Bachelor's Degree","Computer Science",27,9450.30,11092.67
+"Data and Analytics Department",Assistant,"Bachelor's Degree",Engineering,27,9505.44,11013.04
+"Engineering Department",Manager,"Doctoral Degree",Economics,27,9375.00,10987.59
+"Human Resources Department",Executive,Diploma,"Business Administration",27,9219.19,10916.15
+"Marketing Department",Developer,"Master's Degree","Computer Science",27,9238.00,10869.59
+"Human Resources Department",Developer,"Bachelor's Degree",Economics,27,9198.52,10801.26
+"Product Management Department",Consultant,Diploma,"Business Administration",27,8892.07,10794.04
+"Data and Analytics Department",Executive,"Doctoral Degree","Business Administration",27,9261.93,10701.04
+"Finance Department",Analyst,"Master's Degree",Engineering,27,9193.74,10699.89
+"Finance Department",Executive,"Master's Degree","Information Technology",27,9012.37,10694.48
+"Marketing Department",Analyst,"Bachelor's Degree",Economics,27,8828.74,10691.56
+"Engineering Department",Analyst,"Master's Degree",Engineering,27,8701.15,10568.33
+"Data and Analytics Department",Analyst,Diploma,"Business Administration",27,8712.67,10496.07
+"Product Management Department",Executive,"Master's Degree","Data Analytics",27,8650.56,10491.85
+"Finance Department",Analyst,"Master's Degree",Economics,27,8577.81,10381.93
+"Operations Department",Assistant,"Master's Degree","Computer Science",27,8475.59,10251.56
+"Operations Department",Consultant,"Bachelor's Degree",Engineering,27,8322.19,10132.78
+"Engineering Department",Analyst,"Bachelor's Degree",Engineering,27,8521.52,9899.15
+"Human Resources Department",Manager,"Master's Degree","Computer Science",27,8279.44,9894.81
+"Product Management Department",Assistant,"Master's Degree","Information Technology",27,8194.78,9857.48
+"Finance Department",Analyst,"Master's Degree","Computer Science",27,8041.26,9807.37
+"Data and Analytics Department",Manager,"Master's Degree",Economics,27,8155.67,9777.85
+"Customer Support Department",Executive,"Master's Degree","Computer Science",27,8211.04,9743.67
+"Engineering Department",Manager,"Master's Degree",Economics,27,8070.44,9686.41
+"Customer Support Department",Consultant,"Bachelor's Degree","Data Analytics",27,8023.41,9627.15
+"Data and Analytics Department",Consultant,"Bachelor's Degree","Information Technology",27,8290.22,9482.96
+"Finance Department",Consultant,"Bachelor's Degree","Data Analytics",27,7839.44,9435.04
+"Human Resources Department",Manager,"Master's Degree","Information Technology",27,7600.04,9298.59
+"Finance Department",Developer,"Bachelor's Degree",Engineering,27,7692.96,9228.52
+"Engineering Department",Consultant,Diploma,"Business Administration",27,7528.48,8910.85
+"Marketing Department",Analyst,"Master's Degree","Computer Science",27,7072.59,8814.81
+"Product Management Department",Executive,"Master's Degree","Information Technology",27,7231.78,8776.26
+"Product Management Department",Analyst,"Bachelor's Degree","Data Analytics",26,10377.62,12191.27
+"Finance Department",Developer,"Bachelor's Degree","Data Analytics",26,10115.54,11741.31
+"Operations Department",Developer,"Master's Degree",Economics,26,10055.08,11656.31
+"Data and Analytics Department",Manager,"Bachelor's Degree","Data Analytics",26,9927.42,11654.19
+"Data and Analytics Department",Executive,"Master's Degree","Data Analytics",26,10136.77,11612.19
+"Finance Department",Manager,"Master's Degree","Information Technology",26,9462.92,10993.85
+"Marketing Department",Assistant,"Doctoral Degree","Business Administration",26,9445.77,10961.46
+"Marketing Department",Manager,"Bachelor's Degree",Economics,26,9319.38,10828.88
+"Human Resources Department",Manager,"Master's Degree","Data Analytics",26,9175.23,10812.96
+"Data and Analytics Department",Analyst,"Bachelor's Degree",Engineering,26,9126.77,10798.69
+"Marketing Department",Analyst,"Master's Degree","Information Technology",26,9314.31,10791.27
+"Product Management Department",Developer,"Bachelor's Degree",Economics,26,9167.58,10773.85
+"Human Resources Department",Manager,"Bachelor's Degree","Data Analytics",26,9288.65,10763.69
+"Operations Department",Manager,"Bachelor's Degree",Economics,26,8932.62,10566.38
+"Operations Department",Analyst,"Master's Degree",Engineering,26,8771.08,10451.85
+"Human Resources Department",Manager,"Bachelor's Degree",Engineering,26,8824.42,10349.08
+"Finance Department",Executive,"Bachelor's Degree","Data Analytics",26,8559.54,10312.27
+"Product Management Department",Assistant,Diploma,"Business Administration",26,8828.08,10293.19
+"Engineering Department",Assistant,"Master's Degree",Engineering,26,8329.58,10226.00
+"Product Management Department",Manager,"Bachelor's Degree","Data Analytics",26,8356.58,10197.69
+"Product Management Department",Developer,"Master's Degree","Data Analytics",26,8246.35,10107.27
+"Marketing Department",Executive,"Master's Degree","Computer Science",26,8303.88,10084.92
+"Customer Support Department",Consultant,Diploma,"Business Administration",26,8366.85,10052.77
+"Data and Analytics Department",Analyst,"Master's Degree","Computer Science",26,8340.04,10051.96
+"Human Resources Department",Developer,"Master's Degree","Data Analytics",26,8278.85,10000.19
+"Engineering Department",Analyst,"Master's Degree","Information Technology",26,8312.81,9984.19
+"Human Resources Department",Manager,"Master's Degree",Engineering,26,8187.96,9935.04
+"Marketing Department",Manager,"Bachelor's Degree","Information Technology",26,8260.15,9719.31
+"Human Resources Department",Analyst,"Bachelor's Degree","Data Analytics",26,7976.15,9581.46
+"Customer Support Department",Analyst,"Bachelor's Degree",Engineering,26,7992.65,9558.42
+"Finance Department",Executive,Diploma,"Computer Science",26,7724.54,9555.00
+"Engineering Department",Assistant,"Doctoral Degree","Business Administration",26,7653.23,9354.58
+"Product Management Department",Assistant,"Doctoral Degree","Business Administration",26,7302.73,9071.77
+"Engineering Department",Consultant,"Doctoral Degree","Business Administration",25,10256.20,11799.60
+"Data and Analytics Department",Assistant,"Master's Degree","Computer Science",25,9859.52,11725.68
+"Data and Analytics Department",Consultant,"Doctoral Degree","Business Administration",25,10010.40,11678.88
+"Customer Support Department",Manager,"Master's Degree","Computer Science",25,10050.60,11675.60
+"Human Resources Department",Assistant,"Master's Degree",Economics,25,9435.16,11178.04
+"Operations Department",Analyst,Diploma,"Data Analytics",25,9203.52,10902.76
+"Finance Department",Consultant,"Bachelor's Degree","Information Technology",25,9263.64,10870.92
+"Data and Analytics Department",Developer,"Bachelor's Degree",Engineering,25,9134.72,10867.56
+"Finance Department",Manager,"Bachelor's Degree",Engineering,25,9399.20,10853.24
+"Finance Department",Consultant,"Master's Degree","Information Technology",25,9059.92,10815.08
+"Human Resources Department",Executive,"Bachelor's Degree","Data Analytics",25,8557.56,10543.84
+"Marketing Department",Manager,"Master's Degree",Economics,25,9004.76,10508.80
+"Finance Department",Analyst,"Bachelor's Degree","Information Technology",25,8912.56,10473.48
+"Human Resources Department",Executive,Diploma,"Information Technology",25,8753.00,10456.76
+"Customer Support Department",Consultant,"Bachelor's Degree","Information Technology",25,8675.96,10357.24
+"Operations Department",Consultant,"Bachelor's Degree",Economics,25,8864.96,10258.52
+"Operations Department",Analyst,"Master's Degree","Information Technology",25,8486.24,10174.24
+"Customer Support Department",Consultant,"Master's Degree","Data Analytics",25,8606.12,10167.68
+"Data and Analytics Department",Assistant,"Master's Degree","Data Analytics",25,8356.52,10146.88
+"Operations Department",Developer,"Master's Degree","Information Technology",25,8319.96,10125.92
+"Operations Department",Assistant,"Master's Degree","Data Analytics",25,8603.92,10114.52
+"Operations Department",Executive,"Doctoral Degree","Business Administration",25,8171.28,9962.96
+"Marketing Department",Executive,"Bachelor's Degree",Engineering,25,8078.84,9934.92
+"Customer Support Department",Consultant,"Bachelor's Degree",Engineering,25,8257.76,9753.48
+"Product Management Department",Manager,"Bachelor's Degree",Economics,25,8306.92,9734.28
+"Product Management Department",Manager,"Master's Degree","Data Analytics",25,8137.52,9717.48
+"Engineering Department",Consultant,"Master's Degree","Data Analytics",25,8081.28,9629.76
+"Human Resources Department",Assistant,"Bachelor's Degree",Engineering,25,8008.96,9565.76
+"Data and Analytics Department",Assistant,"Master's Degree",Economics,25,7996.28,9498.56
+"Marketing Department",Analyst,"Doctoral Degree","Business Administration",25,7803.76,9454.08
+"Operations Department",Analyst,"Bachelor's Degree","Data Analytics",25,7637.88,9232.12
+"Operations Department",Executive,Diploma,Engineering,25,7475.64,9092.20
+"Engineering Department",Developer,"Bachelor's Degree","Information Technology",25,7276.20,8815.88
+"Finance Department",Developer,"Doctoral Degree","Business Administration",24,9973.00,11581.13
+"Operations Department",Executive,"Master's Degree","Data Analytics",24,9479.08,11356.00
+"Customer Support Department",Executive,Diploma,"Information Technology",24,9314.17,11263.21
+"Engineering Department",Analyst,"Doctoral Degree","Business Administration",24,9575.29,11188.83
+"Data and Analytics Department",Assistant,"Master's Degree","Information Technology",24,9335.58,11072.13
+"Customer Support Department",Assistant,"Bachelor's Degree",Engineering,24,9357.29,11049.29
+"Product Management Department",Developer,"Bachelor's Degree","Computer Science",24,9018.33,10762.58
+"Marketing Department",Developer,"Doctoral Degree","Business Administration",24,9135.92,10730.25
+"Product Management Department",Manager,"Bachelor's Degree",Engineering,24,9257.58,10514.46
+"Engineering Department",Assistant,Diploma,"Business Administration",24,8907.29,10489.58
+"Data and Analytics Department",Analyst,Diploma,"Data Analytics",24,8863.79,10456.79
+"Engineering Department",Assistant,Diploma,Engineering,24,8773.42,10448.83
+"Data and Analytics Department",Assistant,"Doctoral Degree","Business Administration",24,8806.17,10418.00
+"Human Resources Department",Executive,"Master's Degree","Data Analytics",24,8429.38,10332.79
+"Finance Department",Assistant,"Bachelor's Degree",Engineering,24,8857.04,10318.25
+"Operations Department",Consultant,"Doctoral Degree","Business Administration",24,8635.33,10228.63
+"Finance Department",Developer,"Bachelor's Degree","Computer Science",24,8559.83,10219.21
+"Operations Department",Assistant,"Master's Degree",Economics,24,8311.08,10072.13
+"Data and Analytics Department",Manager,"Bachelor's Degree",Engineering,24,8368.50,9960.50
+"Product Management Department",Consultant,"Bachelor's Degree",Engineering,24,8007.75,9788.42
+"Product Management Department",Executive,"Doctoral Degree","Business Administration",24,7947.92,9625.21
+"Product Management Department",Consultant,"Bachelor's Degree",Economics,24,8033.96,9574.54
+"Human Resources Department",Assistant,"Bachelor's Degree",Economics,24,7783.42,9399.92
+"Human Resources Department",Developer,"Master's Degree",Economics,24,7542.71,9253.38
+"Human Resources Department",Consultant,"Master's Degree","Computer Science",24,7162.00,8883.83
+"Data and Analytics Department",Consultant,"Master's Degree","Information Technology",24,7376.46,8705.00
+"Operations Department",Analyst,"Bachelor's Degree",Engineering,23,10822.52,12551.22
+"Product Management Department",Consultant,"Doctoral Degree","Business Administration",23,10331.83,11833.39
+"Product Management Department",Analyst,"Master's Degree",Economics,23,9806.83,11311.22
+"Engineering Department",Manager,"Bachelor's Degree",Economics,23,9505.91,11307.70
+"Operations Department",Manager,"Doctoral Degree","Business Administration",23,9634.30,11205.39
+"Data and Analytics Department",Manager,"Bachelor's Degree","Information Technology",23,9241.09,11106.39
+"Product Management Department",Developer,"Bachelor's Degree",Engineering,23,9304.04,10989.17
+"Human Resources Department",Manager,"Doctoral Degree","Business Administration",23,9290.22,10984.39
+"Operations Department",Executive,Diploma,Economics,23,9401.00,10972.70
+"Human Resources Department",Analyst,"Bachelor's Degree","Computer Science",23,8968.00,10760.91
+"Marketing Department",Executive,Diploma,Engineering,23,9172.65,10686.43
+"Data and Analytics Department",Manager,"Doctoral Degree","Business Administration",23,8953.87,10650.52
+"Finance Department",Executive,"Doctoral Degree","Business Administration",23,8857.74,10619.13
+"Marketing Department",Consultant,"Doctoral Degree","Business Administration",23,8768.83,10573.74
+"Customer Support Department",Assistant,"Master's Degree","Computer Science",23,9060.17,10445.87
+"Product Management Department",Developer,"Doctoral Degree","Business Administration",23,8628.83,10391.48
+"Operations Department",Manager,"Bachelor's Degree",Engineering,23,8625.00,10353.74
+"Finance Department",Assistant,"Bachelor's Degree","Data Analytics",23,8607.52,10337.13
+"Operations Department",Executive,Diploma,"Data Analytics",23,8676.26,10301.30
+"Marketing Department",Assistant,"Bachelor's Degree",Engineering,23,8470.04,10259.22
+"Operations Department",Executive,Diploma,"Computer Science",23,8577.48,10224.61
+"Operations Department",Manager,"Doctoral Degree",Economics,23,8710.96,10158.74
+"Operations Department",Developer,"Bachelor's Degree",Engineering,23,8345.83,10134.70
+"Human Resources Department",Analyst,"Bachelor's Degree",Economics,23,8174.65,10027.26
+"Engineering Department",Assistant,"Master's Degree",Economics,23,8014.70,9925.91
+"Engineering Department",Executive,"Master's Degree",Economics,23,8291.74,9882.52
+"Customer Support Department",Executive,Diploma,"Business Administration",23,8128.43,9812.87
+"Customer Support Department",Analyst,Diploma,Engineering,23,7932.30,9668.00
+"Finance Department",Analyst,"Doctoral Degree","Business Administration",23,7748.35,9369.43
+"Marketing Department",Assistant,"Bachelor's Degree",Economics,23,7675.65,9257.91
+"Customer Support Department",Consultant,"Doctoral Degree","Business Administration",22,10737.14,12458.27
+"Engineering Department",Consultant,Diploma,"Information Technology",22,10436.41,12209.64
+"Operations Department",Analyst,"Doctoral Degree","Information Technology",22,10017.86,11737.14
+"Customer Support Department",Manager,"Bachelor's Degree","Computer Science",22,9678.32,11543.14
+"Human Resources Department",Consultant,Diploma,"Computer Science",22,9264.05,10880.68
+"Finance Department",Consultant,Diploma,"Data Analytics",22,9503.50,10864.50
+"Operations Department",Assistant,"Doctoral Degree","Business Administration",22,9257.86,10844.32
+"Data and Analytics Department",Developer,"Doctoral Degree","Computer Science",22,8859.18,10688.86
+"Operations Department",Manager,"Master's Degree",Economics,22,8952.77,10441.00
+"Operations Department",Consultant,"Bachelor's Degree","Information Technology",22,9037.64,10403.68
+"Operations Department",Executive,"Bachelor's Degree","Computer Science",22,8703.45,10394.73
+"Operations Department",Manager,Diploma,"Information Technology",22,8304.23,10033.50
+"Finance Department",Analyst,"Bachelor's Degree",Economics,22,8186.82,9921.73
+"Operations Department",Developer,Diploma,Economics,22,8115.27,9779.95
+"Engineering Department",Assistant,"Bachelor's Degree",Engineering,22,8239.73,9737.77
+"Finance Department",Developer,Diploma,Engineering,22,7776.00,9637.59
+"Engineering Department",Consultant,"Master's Degree","Information Technology",22,7993.68,9598.05
+"Finance Department",Assistant,"Bachelor's Degree","Information Technology",22,7691.68,9425.32
+"Customer Support Department",Developer,Diploma,Economics,21,9797.38,11585.14
+"Operations Department",Assistant,Diploma,"Information Technology",21,9712.48,11393.67
+"Operations Department",Analyst,Diploma,"Computer Science",21,9685.86,11283.48
+"Marketing Department",Analyst,"Doctoral Degree","Information Technology",21,9621.38,11203.29
+"Data and Analytics Department",Analyst,"Doctoral Degree","Data Analytics",21,9605.43,11156.57
+"Marketing Department",Assistant,"Doctoral Degree","Computer Science",21,9350.29,11017.43
+"Engineering Department",Consultant,"Bachelor's Degree",Engineering,21,9178.38,10949.14
+"Engineering Department",Developer,Diploma,Engineering,21,9135.00,10905.48
+"Operations Department",Consultant,"Master's Degree",Engineering,21,9166.05,10849.57
+"Operations Department",Assistant,"Bachelor's Degree","Data Analytics",21,8951.05,10658.62
+"Marketing Department",Executive,Diploma,"Information Technology",21,8779.81,10570.62
+"Marketing Department",Developer,"Master's Degree",Engineering,21,8852.86,10486.29
+"Operations Department",Executive,"Bachelor's Degree",Economics,21,8622.81,10440.81
+"Customer Support Department",Manager,"Master's Degree","Data Analytics",21,8386.86,10011.19
+"Finance Department",Consultant,"Bachelor's Degree",Engineering,21,8258.67,9927.00
+"Data and Analytics Department",Developer,"Doctoral Degree","Information Technology",21,8018.76,9637.00
+"Engineering Department",Executive,"Doctoral Degree","Business Administration",21,7985.19,9575.90
+"Marketing Department",Developer,"Bachelor's Degree",Engineering,21,7724.10,9290.95
+"Data and Analytics Department",Analyst,"Bachelor's Degree","Computer Science",21,7454.19,9254.00
+"Human Resources Department",Manager,"Master's Degree",Economics,21,7840.90,9127.57
+"Engineering Department",Executive,"Bachelor's Degree",Engineering,20,10528.80,12442.00
+"Engineering Department",Consultant,"Bachelor's Degree","Data Analytics",20,10340.85,12201.90
+"Customer Support Department",Manager,"Bachelor's Degree",Engineering,20,9837.15,11703.15
+"Marketing Department",Developer,"Bachelor's Degree","Computer Science",20,9763.60,11652.60
+"Product Management Department",Consultant,"Doctoral Degree","Computer Science",20,9855.00,11499.10
+"Human Resources Department",Assistant,"Master's Degree","Information Technology",20,9639.60,11482.65
+"Engineering Department",Executive,"Master's Degree","Data Analytics",20,9695.95,11397.95
+"Engineering Department",Executive,Diploma,Economics,20,9532.75,11084.25
+"Customer Support Department",Consultant,Diploma,Economics,20,9132.20,10878.80
+"Data and Analytics Department",Developer,"Doctoral Degree","Business Administration",20,8986.85,10687.40
+"Finance Department",Executive,Diploma,"Information Technology",20,8999.20,10661.95
+"Engineering Department",Manager,"Bachelor's Degree",Engineering,20,8807.20,10507.60
+"Human Resources Department",Assistant,"Doctoral Degree",Engineering,20,8555.85,10133.55
+"Product Management Department",Analyst,"Doctoral Degree","Information Technology",20,8493.15,10013.60
+"Customer Support Department",Assistant,Diploma,"Data Analytics",20,8042.85,9873.50
+"Product Management Department",Assistant,"Bachelor's Degree","Information Technology",20,8009.55,9856.45
+"Customer Support Department",Analyst,"Doctoral Degree","Business Administration",20,8190.35,9814.30
+"Data and Analytics Department",Developer,"Bachelor's Degree","Information Technology",20,8236.25,9797.65
+"Engineering Department",Analyst,"Doctoral Degree",Economics,20,8143.70,9768.90
+"Engineering Department",Developer,"Doctoral Degree",Engineering,20,8154.05,9699.90
+"Marketing Department",Assistant,"Bachelor's Degree","Data Analytics",20,7820.35,9590.55
+"Marketing Department",Assistant,Diploma,"Data Analytics",20,7644.85,9220.40
+"Data and Analytics Department",Assistant,"Doctoral Degree","Data Analytics",20,7684.95,8784.70
+"Data and Analytics Department",Executive,"Doctoral Degree","Computer Science",19,10174.89,11981.95
+"Human Resources Department",Analyst,Diploma,Economics,19,10039.58,11669.11
+"Engineering Department",Developer,"Doctoral Degree","Business Administration",19,9880.05,11626.11
+"Engineering Department",Assistant,"Doctoral Degree","Data Analytics",19,10002.11,11481.21
+"Human Resources Department",Developer,Diploma,Economics,19,9425.47,11352.74
+"Marketing Department",Analyst,Diploma,"Data Analytics",19,9905.32,11305.79
+"Operations Department",Consultant,Diploma,"Information Technology",19,9383.79,11245.05
+"Finance Department",Assistant,Diploma,Economics,19,9215.00,10997.21
+"Human Resources Department",Assistant,"Doctoral Degree","Business Administration",19,9079.63,10978.16
+"Operations Department",Consultant,"Master's Degree",Economics,19,9499.26,10960.68
+"Customer Support Department",Consultant,Diploma,Engineering,19,9250.00,10940.63
+"Engineering Department",Executive,Diploma,"Computer Science",19,9135.11,10796.58
+"Finance Department",Consultant,"Doctoral Degree",Economics,19,9220.89,10667.00
+"Finance Department",Analyst,"Bachelor's Degree",Engineering,19,8979.95,10661.26
+"Human Resources Department",Consultant,"Doctoral Degree",Economics,19,9051.00,10641.95
+"Engineering Department",Assistant,Diploma,Economics,19,8972.84,10520.89
+"Product Management Department",Analyst,Diploma,"Information Technology",19,8901.21,10517.16
+"Product Management Department",Manager,"Doctoral Degree",Economics,19,9042.11,10425.26
+"Product Management Department",Developer,Diploma,Engineering,19,9025.11,10402.74
+"Finance Department",Manager,Diploma,"Data Analytics",19,8885.95,10402.05
+"Customer Support Department",Executive,Diploma,Engineering,19,8670.79,10111.89
+"Human Resources Department",Manager,Diploma,Economics,19,8504.26,10076.16
+"Product Management Department",Manager,Diploma,"Data Analytics",19,8264.47,9945.26
+"Operations Department",Analyst,"Bachelor's Degree","Information Technology",19,8149.89,9696.32
+"Engineering Department",Analyst,"Doctoral Degree","Information Technology",19,6429.26,8338.47
+"Product Management Department",Developer,"Doctoral Degree","Computer Science",18,10708.22,12236.28
+"Human Resources Department",Developer,Diploma,"Data Analytics",18,10562.11,12159.22
+"Operations Department",Manager,"Doctoral Degree","Computer Science",18,9820.11,11647.06
+"Marketing Department",Manager,"Bachelor's Degree",Engineering,18,9700.72,11531.89
+"Finance Department",Analyst,Diploma,"Data Analytics",18,9638.94,11200.94
+"Product Management Department",Assistant,"Doctoral Degree",Economics,18,9465.72,11174.17
+"Operations Department",Consultant,Diploma,Engineering,18,9216.78,10827.89
+"Marketing Department",Consultant,Diploma,Engineering,18,9216.83,10815.78
+"Operations Department",Developer,Diploma,"Data Analytics",18,9145.22,10809.50
+"Marketing Department",Assistant,Diploma,"Information Technology",18,8868.50,10702.00
+"Finance Department",Executive,"Doctoral Degree","Information Technology",18,8875.28,10591.00
+"Engineering Department",Analyst,Diploma,"Computer Science",18,8880.06,10457.83
+"Finance Department",Consultant,"Doctoral Degree","Data Analytics",18,8793.67,10445.44
+"Marketing Department",Executive,Diploma,"Computer Science",18,8997.50,10371.00
+"Engineering Department",Manager,Diploma,"Information Technology",18,8429.22,10333.22
+"Human Resources Department",Analyst,Diploma,Engineering,18,8723.06,10300.22
+"Customer Support Department",Assistant,Diploma,Economics,18,8409.33,10131.78
+"Customer Support Department",Executive,"Doctoral Degree","Computer Science",18,8412.44,10123.17
+"Human Resources Department",Developer,Diploma,"Business Administration",18,8330.94,10054.67
+"Human Resources Department",Assistant,"Doctoral Degree",Economics,18,8331.39,9982.50
+"Finance Department",Analyst,Diploma,"Information Technology",18,8176.39,9950.56
+"Customer Support Department",Manager,"Doctoral Degree","Data Analytics",18,8127.00,9902.83
+"Finance Department",Developer,Diploma,"Data Analytics",18,8303.94,9873.56
+"Human Resources Department",Analyst,Diploma,"Information Technology",18,7894.33,9818.94
+"Product Management Department",Manager,Diploma,"Computer Science",18,8178.94,9817.94
+"Product Management Department",Manager,Diploma,"Information Technology",18,8098.78,9758.50
+"Finance Department",Consultant,Diploma,Engineering,18,7819.44,9434.83
+"Marketing Department",Developer,Diploma,"Information Technology",18,7710.56,9431.83
+"Data and Analytics Department",Consultant,Diploma,"Information Technology",18,7264.06,8655.44
+"Human Resources Department",Consultant,Diploma,"Information Technology",17,10249.65,12250.41
+"Data and Analytics Department",Consultant,Diploma,"Data Analytics",17,10185.59,11886.71
+"Marketing Department",Consultant,Diploma,"Information Technology",17,10106.65,11847.47
+"Marketing Department",Consultant,"Bachelor's Degree",Engineering,17,9980.94,11717.88
+"Finance Department",Analyst,Diploma,Economics,17,9802.94,11549.00
+"Human Resources Department",Assistant,Diploma,Engineering,17,9955.94,11475.18
+"Customer Support Department",Consultant,Diploma,"Information Technology",17,9588.41,11322.24
+"Human Resources Department",Analyst,"Bachelor's Degree",Engineering,17,9379.29,11220.41
+"Product Management Department",Consultant,Diploma,Economics,17,9436.24,11217.94
+"Data and Analytics Department",Executive,"Doctoral Degree",Engineering,17,9483.94,11211.12
+"Operations Department",Consultant,Diploma,"Data Analytics",17,9217.76,11046.94
+"Marketing Department",Consultant,"Doctoral Degree",Economics,17,9268.35,10808.71
+"Engineering Department",Manager,"Doctoral Degree","Business Administration",17,9027.65,10638.76
+"Engineering Department",Executive,"Doctoral Degree","Data Analytics",17,9192.47,10628.00
+"Finance Department",Executive,"Doctoral Degree","Computer Science",17,8720.65,10605.35
+"Product Management Department",Manager,"Doctoral Degree","Computer Science",17,8819.65,10605.35
+"Data and Analytics Department",Developer,Diploma,"Computer Science",17,9176.94,10601.29
+"Customer Support Department",Developer,Diploma,"Computer Science",17,8962.29,10586.35
+"Engineering Department",Executive,Diploma,"Information Technology",17,9044.59,10414.06
+"Customer Support Department",Executive,Diploma,"Computer Science",17,8729.35,10393.24
+"Operations Department",Developer,Diploma,Engineering,17,8740.35,10351.71
+"Marketing Department",Manager,Diploma,Economics,17,8878.29,10304.35
+"Data and Analytics Department",Assistant,Diploma,"Computer Science",17,8976.71,10297.29
+"Operations Department",Manager,Diploma,Economics,17,8794.18,10252.53
+"Data and Analytics Department",Assistant,Diploma,Engineering,17,8008.76,10154.18
+"Product Management Department",Assistant,Diploma,Economics,17,8517.76,10121.18
+"Human Resources Department",Consultant,Diploma,Economics,17,8415.47,10075.82
+"Human Resources Department",Assistant,Diploma,"Data Analytics",17,8671.94,9983.00
+"Product Management Department",Assistant,Diploma,"Data Analytics",17,8558.47,9885.24
+"Customer Support Department",Assistant,"Doctoral Degree","Information Technology",17,8188.35,9872.71
+"Human Resources Department",Executive,"Doctoral Degree","Computer Science",17,8026.00,9789.00
+"Human Resources Department",Executive,Diploma,"Computer Science",17,8322.06,9738.53
+"Engineering Department",Manager,Diploma,"Computer Science",17,8109.41,9644.53
+"Engineering Department",Manager,"Doctoral Degree",Engineering,17,7925.41,9620.82
+"Operations Department",Developer,"Doctoral Degree","Information Technology",17,7736.00,9573.94
+"Data and Analytics Department",Analyst,Diploma,Economics,17,8024.12,9449.53
+"Finance Department",Manager,Diploma,Engineering,17,7905.88,9374.71
+"Engineering Department",Assistant,Diploma,"Computer Science",17,8054.47,9316.76
+"Data and Analytics Department",Analyst,Diploma,Engineering,17,7330.59,9085.29
+"Customer Support Department",Consultant,"Doctoral Degree",Economics,17,6004.65,7647.53
+"Engineering Department",Consultant,Diploma,Economics,16,11282.63,13545.81
+"Data and Analytics Department",Executive,Diploma,"Information Technology",16,10693.31,12551.69
+"Customer Support Department",Consultant,"Doctoral Degree","Information Technology",16,10059.13,12042.38
+"Engineering Department",Assistant,"Doctoral Degree",Economics,16,10251.06,11824.75
+"Customer Support Department",Developer,Diploma,Engineering,16,9330.44,11389.88
+"Customer Support Department",Manager,"Doctoral Degree",Economics,16,9486.56,11371.56
+"Engineering Department",Executive,Diploma,Engineering,16,9596.81,11311.44
+"Human Resources Department",Analyst,"Doctoral Degree",Engineering,16,9193.63,11258.81
+"Product Management Department",Executive,Diploma,Engineering,16,9686.94,11174.44
+"Product Management Department",Analyst,Diploma,Economics,16,9232.31,11014.81
+"Finance Department",Developer,"Doctoral Degree","Data Analytics",16,9234.69,10941.56
+"Operations Department",Analyst,"Doctoral Degree",Economics,16,8981.19,10890.69
+"Human Resources Department",Manager,"Doctoral Degree","Computer Science",16,8734.50,10759.63
+"Finance Department",Developer,"Doctoral Degree",Engineering,16,9000.13,10731.06
+"Customer Support Department",Analyst,Diploma,"Data Analytics",16,8718.56,10659.81
+"Data and Analytics Department",Manager,Diploma,"Computer Science",16,8551.31,10557.00
+"Marketing Department",Analyst,"Doctoral Degree",Engineering,16,8807.25,10440.81
+"Customer Support Department",Assistant,Diploma,Engineering,16,8747.31,10270.63
+"Product Management Department",Analyst,Diploma,Engineering,16,8575.88,10158.69
+"Data and Analytics Department",Analyst,Diploma,"Information Technology",16,8560.25,10157.50
+"Product Management Department",Executive,Diploma,Economics,16,8329.50,10119.69
+"Operations Department",Manager,Diploma,Engineering,16,8707.44,10119.19
+"Human Resources Department",Developer,"Doctoral Degree",Economics,16,8398.75,9951.81
+"Finance Department",Executive,Diploma,Engineering,16,8413.13,9863.56
+"Engineering Department",Developer,"Doctoral Degree","Computer Science",16,8116.06,9840.00
+"Product Management Department",Manager,"Doctoral Degree","Information Technology",16,8093.38,9732.13
+"Engineering Department",Developer,Diploma,"Information Technology",16,8009.44,9679.25
+"Customer Support Department",Developer,"Bachelor's Degree",Engineering,16,8465.13,9589.19
+"Marketing Department",Consultant,Diploma,Economics,16,8155.50,9440.81
+"Data and Analytics Department",Manager,Diploma,Engineering,16,7938.75,9439.19
+"Product Management Department",Manager,Diploma,Economics,16,7846.06,9328.31
+"Product Management Department",Assistant,"Doctoral Degree",Engineering,16,7648.75,9236.44
+"Human Resources Department",Manager,Diploma,"Data Analytics",16,7544.81,9154.13
+"Data and Analytics Department",Developer,Diploma,"Data Analytics",16,7343.75,8963.88
+"Product Management Department",Manager,Diploma,Engineering,16,7439.50,8953.75
+"Engineering Department",Consultant,"Doctoral Degree",Economics,16,7631.69,8941.00
+"Data and Analytics Department",Consultant,Diploma,Engineering,15,10267.07,12261.87
+"Marketing Department",Assistant,Diploma,"Computer Science",15,10377.80,12028.33
+"Finance Department",Developer,Diploma,"Computer Science",15,9683.87,11789.73
+"Engineering Department",Manager,Diploma,Economics,15,10302.20,11738.40
+"Operations Department",Analyst,Diploma,Engineering,15,10126.13,11683.80
+"Engineering Department",Analyst,Diploma,Engineering,15,9816.40,11575.80
+"Human Resources Department",Assistant,Diploma,Economics,15,9664.93,11457.13
+"Product Management Department",Developer,"Doctoral Degree",Engineering,15,9531.67,11257.87
+"Engineering Department",Developer,"Doctoral Degree",Economics,15,9610.87,11234.73
+"Engineering Department",Developer,Diploma,"Computer Science",15,9535.67,11096.33
+"Product Management Department",Assistant,"Doctoral Degree","Information Technology",15,9393.13,11075.93
+"Engineering Department",Consultant,"Doctoral Degree","Computer Science",15,9276.33,11071.67
+"Customer Support Department",Consultant,"Doctoral Degree","Data Analytics",15,9580.20,10947.13
+"Product Management Department",Developer,Diploma,"Information Technology",15,8950.20,10798.73
+"Operations Department",Assistant,"Doctoral Degree",Engineering,15,8931.67,10798.27
+"Human Resources Department",Manager,Diploma,"Information Technology",15,9126.40,10792.13
+"Customer Support Department",Executive,"Doctoral Degree","Data Analytics",15,8967.60,10715.33
+"Data and Analytics Department",Manager,"Doctoral Degree","Information Technology",15,9092.53,10711.87
+"Data and Analytics Department",Executive,"Doctoral Degree",Economics,15,9089.53,10687.87
+"Operations Department",Manager,"Doctoral Degree","Data Analytics",15,8596.60,10581.53
+"Marketing Department",Manager,"Doctoral Degree","Computer Science",15,9181.93,10539.87
+"Engineering Department",Manager,"Doctoral Degree","Computer Science",15,9091.73,10470.00
+"Engineering Department",Analyst,Diploma,"Information Technology",15,9004.73,10445.47
+"Operations Department",Assistant,Diploma,"Computer Science",15,8807.20,10441.00
+"Data and Analytics Department",Executive,Diploma,"Data Analytics",15,8534.60,10390.07
+"Human Resources Department",Consultant,"Doctoral Degree","Information Technology",15,8402.53,10154.33
+"Engineering Department",Developer,"Bachelor's Degree",Engineering,15,8426.07,10143.60
+"Engineering Department",Manager,Diploma,Engineering,15,8379.07,10087.67
+"Customer Support Department",Manager,Diploma,Engineering,15,8276.33,10031.93
+"Human Resources Department",Executive,Diploma,Engineering,15,8150.60,9994.33
+"Human Resources Department",Developer,"Doctoral Degree","Computer Science",15,8117.27,9825.67
+"Data and Analytics Department",Assistant,"Doctoral Degree","Information Technology",15,7734.73,9703.67
+"Data and Analytics Department",Developer,Diploma,Engineering,15,7893.93,9569.73
+"Marketing Department",Manager,"Doctoral Degree","Data Analytics",15,7858.80,9477.33
+"Human Resources Department",Consultant,Diploma,"Data Analytics",15,7469.20,8955.33
+"Marketing Department",Consultant,"Doctoral Degree",Engineering,15,7450.53,8909.20
+"Customer Support Department",Developer,"Doctoral Degree","Computer Science",15,6537.60,8284.33
+"Finance Department",Developer,Diploma,"Information Technology",15,6707.60,8220.67
+"Finance Department",Analyst,"Doctoral Degree","Data Analytics",15,6018.40,7766.13
+"Human Resources Department",Manager,Diploma,Engineering,14,10791.71,12416.93
+"Product Management Department",Analyst,Diploma,"Data Analytics",14,10101.57,12081.21
+"Customer Support Department",Consultant,"Doctoral Degree",Engineering,14,10080.79,11788.07
+"Marketing Department",Manager,Diploma,"Data Analytics",14,9701.71,11746.50
+"Customer Support Department",Manager,"Doctoral Degree","Information Technology",14,9709.79,11625.29
+"Data and Analytics Department",Manager,"Doctoral Degree",Economics,14,9975.29,11479.93
+"Customer Support Department",Manager,Diploma,"Data Analytics",14,9949.21,11466.00
+"Human Resources Department",Executive,Diploma,Economics,14,9802.21,11325.00
+"Marketing Department",Assistant,Diploma,Engineering,14,9277.57,11035.64
+"Operations Department",Assistant,"Doctoral Degree","Computer Science",14,9516.36,10998.71
+"Customer Support Department",Consultant,Diploma,"Data Analytics",14,9011.36,10869.29
+"Finance Department",Assistant,"Doctoral Degree","Information Technology",14,9233.64,10807.07
+"Data and Analytics Department",Developer,"Doctoral Degree",Economics,14,8737.21,10706.14
+"Data and Analytics Department",Analyst,"Doctoral Degree","Information Technology",14,8888.50,10576.86
+"Finance Department",Consultant,Diploma,Economics,14,8928.50,10521.00
+"Human Resources Department",Manager,"Doctoral Degree","Data Analytics",14,8621.21,10483.21
+"Customer Support Department",Consultant,"Doctoral Degree","Computer Science",14,8921.93,10459.71
+"Customer Support Department",Assistant,"Doctoral Degree",Engineering,14,8703.64,10434.14
+"Operations Department",Manager,"Doctoral Degree","Information Technology",14,8382.57,10325.07
+"Engineering Department",Executive,"Doctoral Degree",Economics,14,8742.36,10286.29
+"Finance Department",Consultant,"Doctoral Degree","Computer Science",14,8602.14,10275.43
+"Customer Support Department",Manager,Diploma,Economics,14,8523.57,10268.36
+"Customer Support Department",Assistant,"Doctoral Degree","Data Analytics",14,8539.29,10178.71
+"Marketing Department",Assistant,"Doctoral Degree","Information Technology",14,8468.36,10166.43
+"Human Resources Department",Manager,"Doctoral Degree","Information Technology",14,8357.07,9926.07
+"Customer Support Department",Assistant,Diploma,"Computer Science",14,8201.79,9897.93
+"Operations Department",Analyst,"Doctoral Degree",Engineering,14,8170.86,9884.79
+"Engineering Department",Assistant,"Doctoral Degree","Information Technology",14,8129.07,9756.29
+"Data and Analytics Department",Consultant,Diploma,"Computer Science",14,8057.43,9741.86
+"Product Management Department",Manager,"Doctoral Degree",Engineering,14,8137.71,9696.71
+"Finance Department",Manager,"Doctoral Degree",Economics,14,7932.14,9641.00
+"Product Management Department",Consultant,Diploma,Engineering,14,7743.29,9451.21
+"Operations Department",Executive,"Bachelor's Degree",Engineering,14,7767.07,9366.07
+"Operations Department",Assistant,Diploma,Economics,14,7991.00,9217.43
+"Human Resources Department",Developer,Diploma,"Information Technology",14,7586.36,9198.93
+"Data and Analytics Department",Developer,Diploma,Economics,14,7513.64,9152.29
+"Human Resources Department",Analyst,"Doctoral Degree","Information Technology",14,7591.64,9136.14
+"Customer Support Department",Assistant,Diploma,"Information Technology",14,7658.07,8957.29
+"Marketing Department",Analyst,"Doctoral Degree","Data Analytics",14,7366.43,8928.14
+"Finance Department",Assistant,Diploma,"Computer Science",14,6977.71,8585.21
+"Operations Department",Analyst,Diploma,"Information Technology",14,7331.36,8542.29
+"Engineering Department",Consultant,Diploma,Engineering,14,5702.07,7640.93
+"Human Resources Department",Executive,"Doctoral Degree",Engineering,13,11014.31,12717.54
+"Finance Department",Executive,"Doctoral Degree",Engineering,13,9758.46,11843.08
+"Operations Department",Consultant,Diploma,"Computer Science",13,10026.38,11694.15
+"Data and Analytics Department",Analyst,Diploma,"Computer Science",13,9865.31,11686.62
+"Engineering Department",Consultant,"Doctoral Degree","Data Analytics",13,9582.62,11674.23
+"Human Resources Department",Developer,"Doctoral Degree","Data Analytics",13,10060.54,11624.23
+"Human Resources Department",Analyst,"Doctoral Degree","Data Analytics",13,10112.69,11545.00
+"Engineering Department",Manager,Diploma,"Data Analytics",13,10068.54,11541.46
+"Product Management Department",Executive,"Bachelor's Degree",Engineering,13,9784.23,11483.38
+"Marketing Department",Consultant,"Doctoral Degree","Data Analytics",13,9815.38,11421.69
+"Data and Analytics Department",Executive,"Doctoral Degree","Data Analytics",13,9861.31,11258.85
+"Finance Department",Developer,Diploma,Economics,13,9348.62,11209.46
+"Customer Support Department",Assistant,"Doctoral Degree","Computer Science",13,9011.92,10940.69
+"Product Management Department",Executive,"Doctoral Degree","Computer Science",13,9064.69,10930.62
+"Marketing Department",Consultant,"Doctoral Degree","Information Technology",13,9474.92,10918.92
+"Human Resources Department",Consultant,"Doctoral Degree","Computer Science",13,9195.38,10894.69
+"Engineering Department",Analyst,Diploma,"Data Analytics",13,9059.23,10834.85
+"Product Management Department",Developer,"Doctoral Degree","Data Analytics",13,9217.69,10740.69
+"Data and Analytics Department",Executive,Diploma,Economics,13,8776.23,10740.54
+"Operations Department",Manager,Diploma,"Computer Science",13,9034.46,10732.69
+"Operations Department",Executive,"Doctoral Degree","Data Analytics",13,9218.92,10673.00
+"Marketing Department",Analyst,"Doctoral Degree","Computer Science",13,8433.69,10559.23
+"Product Management Department",Assistant,"Doctoral Degree","Data Analytics",13,9098.77,10462.85
+"Engineering Department",Developer,Diploma,"Data Analytics",13,8862.15,10401.77
+"Finance Department",Manager,Diploma,"Computer Science",13,8302.46,10389.46
+"Product Management Department",Analyst,"Doctoral Degree",Economics,13,8696.31,10370.92
+"Customer Support Department",Developer,"Doctoral Degree",Economics,13,8697.00,10334.77
+"Marketing Department",Assistant,"Doctoral Degree",Economics,13,9034.00,10293.92
+"Engineering Department",Assistant,Diploma,"Data Analytics",13,8303.08,10181.54
+"Marketing Department",Developer,Diploma,"Computer Science",13,8417.15,10086.69
+"Operations Department",Consultant,"Doctoral Degree",Economics,13,8603.23,10080.46
+"Operations Department",Executive,"Doctoral Degree","Computer Science",13,8327.85,10068.23
+"Engineering Department",Executive,Diploma,"Data Analytics",13,8639.54,10057.46
+"Engineering Department",Consultant,Diploma,"Data Analytics",13,7957.15,10035.92
+"Engineering Department",Executive,"Doctoral Degree","Information Technology",13,8215.08,9990.77
+"Marketing Department",Executive,"Doctoral Degree",Economics,13,8492.92,9979.54
+"Engineering Department",Executive,"Doctoral Degree",Engineering,13,8315.69,9975.77
+"Product Management Department",Assistant,"Doctoral Degree","Computer Science",13,8285.38,9970.54
+"Engineering Department",Consultant,"Doctoral Degree","Information Technology",13,8220.31,9954.31
+"Marketing Department",Manager,"Doctoral Degree","Information Technology",13,8554.85,9917.46
+"Data and Analytics Department",Assistant,Diploma,"Data Analytics",13,8462.00,9892.00
+"Customer Support Department",Analyst,Diploma,"Computer Science",13,7966.00,9825.00
+"Finance Department",Executive,Diploma,"Data Analytics",13,8125.46,9799.54
+"Human Resources Department",Manager,"Doctoral Degree",Economics,13,7831.69,9530.92
+"Operations Department",Consultant,Diploma,Economics,13,7859.08,9464.15
+"Finance Department",Manager,"Doctoral Degree","Computer Science",13,7728.46,9228.00
+"Finance Department",Analyst,Diploma,Engineering,13,7703.15,9209.15
+"Data and Analytics Department",Manager,"Doctoral Degree","Data Analytics",13,7342.15,9177.15
+"Marketing Department",Executive,"Doctoral Degree","Data Analytics",13,7364.54,9140.85
+"Product Management Department",Executive,"Doctoral Degree","Data Analytics",13,7447.08,9123.92
+"Human Resources Department",Consultant,"Doctoral Degree","Data Analytics",13,7280.31,8973.92
+"Marketing Department",Developer,Diploma,"Data Analytics",13,6995.23,8888.62
+"Product Management Department",Developer,Diploma,Economics,13,7101.62,8516.77
+"Marketing Department",Consultant,Diploma,"Computer Science",12,11041.58,12584.25
+"Product Management Department",Assistant,Diploma,"Computer Science",12,10391.25,12257.67
+"Operations Department",Assistant,Diploma,Engineering,12,9722.08,11978.42
+"Marketing Department",Assistant,"Doctoral Degree",Engineering,12,10501.83,11810.25
+"Data and Analytics Department",Assistant,"Doctoral Degree",Engineering,12,10205.25,11795.75
+"Engineering Department",Developer,Diploma,Economics,12,9873.75,11769.83
+"Operations Department",Developer,Diploma,"Information Technology",12,9910.92,11724.67
+"Customer Support Department",Analyst,"Doctoral Degree","Data Analytics",12,9889.00,11711.25
+"Product Management Department",Analyst,"Doctoral Degree","Business Administration",12,10193.33,11649.92
+"Product Management Department",Consultant,"Doctoral Degree",Engineering,12,9934.08,11602.08
+"Product Management Department",Consultant,"Doctoral Degree","Information Technology",12,9932.08,11555.58
+"Finance Department",Consultant,"Doctoral Degree",Engineering,12,9739.92,11472.08
+"Finance Department",Analyst,"Doctoral Degree","Information Technology",12,9827.58,11436.08
+"Marketing Department",Analyst,Diploma,Economics,12,9664.00,11303.08
+"Customer Support Department",Developer,"Doctoral Degree",Engineering,12,9691.25,11284.50
+"Human Resources Department",Analyst,Diploma,"Computer Science",12,9379.00,11252.25
+"Finance Department",Assistant,"Doctoral Degree","Computer Science",12,9250.58,11232.75
+"Customer Support Department",Developer,Diploma,"Information Technology",12,9027.17,11153.50
+"Data and Analytics Department",Manager,"Doctoral Degree",Engineering,12,9381.92,11106.75
+"Product Management Department",Analyst,"Doctoral Degree","Data Analytics",12,9466.83,11065.58
+"Human Resources Department",Executive,"Doctoral Degree","Information Technology",12,9384.83,10960.67
+"Data and Analytics Department",Executive,Diploma,"Computer Science",12,9277.75,10959.83
+"Human Resources Department",Manager,Diploma,"Computer Science",12,9156.58,10770.00
+"Engineering Department",Assistant,"Doctoral Degree","Computer Science",12,8861.92,10721.17
+"Human Resources Department",Analyst,"Doctoral Degree","Computer Science",12,9477.42,10698.25
+"Data and Analytics Department",Developer,"Doctoral Degree",Engineering,12,9205.00,10688.33
+"Customer Support Department",Analyst,"Doctoral Degree",Economics,12,8998.75,10653.33
+"Marketing Department",Executive,"Doctoral Degree",Engineering,12,8666.25,10571.58
+"Engineering Department",Manager,"Doctoral Degree","Information Technology",12,8629.50,10547.50
+"Human Resources Department",Assistant,Diploma,"Computer Science",12,9028.75,10521.08
+"Marketing Department",Assistant,"Doctoral Degree","Data Analytics",12,8985.75,10486.50
+"Marketing Department",Executive,Diploma,"Data Analytics",12,9011.83,10333.42
+"Data and Analytics Department",Analyst,"Doctoral Degree",Economics,12,8669.00,10256.92
+"Human Resources Department",Executive,"Doctoral Degree","Data Analytics",12,8351.83,10236.33
+"Product Management Department",Developer,Diploma,"Computer Science",12,8361.25,10168.33
+"Operations Department",Assistant,Diploma,"Data Analytics",12,8651.08,10160.33
+"Human Resources Department",Executive,Diploma,"Data Analytics",12,8758.25,10149.33
