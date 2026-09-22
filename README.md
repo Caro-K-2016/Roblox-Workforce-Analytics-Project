@@ -1,7 +1,7 @@
 # Roblox HRMS Workforce Analytics — Capstone Project
 
 **Group 6 · Generation Ghana & Kenya Data Analytics Programme**
-Dennis · Daniel · Comfort · Henry · August 2026
+Dennis · Daniel · Comfort · Henry · Caro August 2026
 
 A end-to-end HR data analytics project on a 30,000-employee synthetic HRMS dataset spanning 8 departments. Raw Excel exports are cleaned, loaded into a relational MySQL warehouse, queried for executive KPIs, and visualized in a Power BI dashboard — culminating in an analyst report with findings and recommendations for leadership.
 
